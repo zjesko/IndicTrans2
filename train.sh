@@ -2,7 +2,7 @@
 
 #SBATCH -A research
 #SBATCH -n 40
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:2
 #SBATCH --mem-per-cpu=2048
 #SBATCH --time=4-00:00:00
 #SBATCH --output=logs.out
@@ -53,7 +53,7 @@ fairseq-train $exp_dir/final_bin \
 --skip-invalid-size-inputs-valid-test \
 --user-dir model_configs \
 --update-freq=32 \
---distributed-world-size 8 \
+--distributed-world-size 2 \
 --num-workers 24 \
 --max-tokens 256 \
 --eval-bleu \
