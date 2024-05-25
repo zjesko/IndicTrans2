@@ -10,7 +10,7 @@
 echo `date`
 devtest_data_dir=$1         # path to the evaluation directory
 ckpt_dir=$2                 # path to the checkpoint directory
-system=${3:-"it2"}          # name of the machine translation system
+system=${3:-"proto50"}          # name of the machine translation system
 
 
 # get a list of language pairs in the `devtest_data_dir`
@@ -24,8 +24,8 @@ for pair in ${pairs[@]}; do
     src_lang=$(echo "$pair" | cut -d "-" -f 1)
     tgt_lang=$(echo "$pair" | cut -d "-" -f 2)
 
-    src_fname=$devtest_data_dir/$src_lang-$tgt_lang/test.$src_lang
-    tgt_fname=$devtest_data_dir/$src_lang-$tgt_lang/test.$tgt_lang
+    src_fname=$devtest_data_dir/$src_lang-$tgt_lang/dev.$src_lang
+    tgt_fname=$devtest_data_dir/$src_lang-$tgt_lang/dev.$tgt_lang
 
     # check if the source and target files exists
     if [ -f "$src_fname" ] && [ -f "$tgt_fname" ]; then
@@ -35,8 +35,8 @@ for pair in ${pairs[@]}; do
         continue
     fi
 
-    # generate translations if the system name contains "it2"
-    if [[ $system == *"it2"* ]]; then
+    # generate translations if the system name contains "proto50"
+    if [[ $system == *"proto50"* ]]; then
         echo "Generating Translations"
         bash joint_translate.sh $src_fname $tgt_fname.pred.$system $src_lang $tgt_lang $ckpt_dir
     fi
