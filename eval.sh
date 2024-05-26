@@ -10,7 +10,7 @@
 echo `date`
 devtest_data_dir=$1         # path to the evaluation directory
 ckpt_dir=$2                 # path to the checkpoint directory
-system=${3:-"it2"}      # name of the machine translation system
+system=${3:-"it2"}          # name of the machine translation system
 
 
 # get a list of language pairs in the `devtest_data_dir`
