@@ -19,15 +19,11 @@ usage () {
 
 lang=$1
 
-# echo "usage: $0 lang" $1 >&2
-
 declare -A lang_map
 
-# echo $lang_map
-
 while read line; do
-    key=$(cut -f 1 <<< "$line")
-    val=$(cut -f 2 <<< "$line")
+    key=$(cut -f1 <<< "$line")
+    val=$(cut -f2 <<< "$line")
     lang_map[$key]=$val
     echo "key : $key" >&2
     echo "value : $val" >&2
@@ -42,5 +38,4 @@ else
     lang=${lang:0:2}
 fi
 
-echo $lang >&2
 perl $root/normalize-punctuation.perl $lang

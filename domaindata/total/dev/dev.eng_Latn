@@ -1,0 +1,1500 @@
+Faster computers, algorithmic improvements, and access to large amounts of data enabled advances in machine learning and perception; data-hungry deep learning methods started to dominate accuracy benchmarks around 2012.
+Filters
+Filters help your chatbot decide which response should be sent to users based on the context and the information the user provides.
+Filters let you also show specific info to people who come to your website using a specific URL address.
+First, the network proposes the region which would possibly have the test and then classify the region if it has the text or not.
+Flat white
+For example, it can recommend an exact product that interests a customer.
+For example, the names of products and services you offer.
+For example, to your CRM or email marketing software and the other way around.
+For example, when Facebook made its API public in 2016, chatbot makers were able to finally integrate their third-party solutions with Messenger.
+For example, when viewing a map and looking for the shortest driving route from Denver to New York in the East, one can in most cases skip looking at any path through San Francisco or other areas far to the West; thus, an AI wielding a pathfinding algorithm like A* can avoid the combinatorial explosion that would ensue if every possible route had to be ponderously considered.
+For example, with Messenger integration, you can connect ChatBot with Messenger or Slack with no coding.
+For instance, optical character recognition is frequently excluded from things considered to be AI, having become a routine technology.
+For instance, the translation of the word ‘volume’ may refer to sound volume, a quantity of space or an amount, regardless of the actual context.
+For instance, your chatbot can ask a user if they are looking for a flat to buy or rent, and then display an offer relevant to their response.
+For less important products, the quality of machine translation may well be sufficient, for instance, if the product description only includes a couple of sentences.
+For most of its history, AI research has been divided into sub-fields that often fail to communicate with each other.
+For some texts, translation quality is the highest priority.
+For the latter two cases, there is a solution that makes everyday information sharing and communication easier, even when there is a very large amount of text.
+For the translation of user manuals, marketing materials and other public documents, a human translator is still recommended.
+For urgent situations, an immediate translation can be ordered through the portal.
+From them, customers may get information crucial to their purchase decision that cannot be found elsewhere.
+Further development in tesseract has been sponsored by Google since 2006.
+General intelligence is among the field's long-term goals.
+Goals can be explicitly defined or induced.
+Greeting
+Handle the different lightning condition in the image
+Harvard’s NLP group created a guide annotating the paper with PyTorch implementation.
+He attributes this to an increase in affordable neural networks, due to a rise in cloud computing infrastructure and to an increase in research tools and datasets.
+Here, machine translation helps customers with their purchase decisions.
+Here we begin to see one key property of the Transformer, which is that the word in each position flows through its own path in the encoder. 
+However, a reader with basic language skills can understand what the intended meaning of the text is.
+However, beginning with the collapse of the Lisp Machine market in 1987, AI once again fell into disrepute, and a second, longer-lasting hiatus began.
+However, it has been acknowledged that reports regarding artificial intelligence have tended to be exaggerated.
+However, machine translation is not a solution for all translation needs.
+However, the shorter schedule requires that the original machine translation output is of sufficiently good quality.
+However, this is a computationally expensive task.
+However, this is nearly impossible when the company has sites all over the world.
+Humans also have a powerful mechanism of folk psychology that helps them to interpret natural-language sentences such as The city councilmen refused the demonstrators a permit because they advocated violence .
+If a company is operating in several countries or on several continents even, communication becomes more difficult to manage.
+If necessary, post-editing can be ordered for selected important texts, so that a human translator edits the machine translation into a more refined form.
+If the AI is programmed for reinforcement learning, goals can be implicitly induced by rewarding some types of behavior or punishing others.
+If the documentation to be translated needs to be easy to understand and, especially, if the documentation is critical in terms of safety, the appropriate solution is post-edited machine translation or traditional translation by a professional translator.
+If you feel the same while reading about chatbots, or talking about them with others, have a look at my list of essential chatbot terms.
+I missed what you said.
+In 2005, it was open-sourced by HP.
+In 2006, Tesseract was considered one of the most accurate open-source OCR engines then available.
+In 2011, a Jeopardy! quiz show exhibition match, IBM's question answering system, Watson, defeated the two greatest Jeopardy! champions, Brad Rutter and Ken Jennings, by a significant margin.
+In a 2017 survey, one in five companies reported they had incorporated AI in some offerings or processes.
+In addition, the end result of post-editing can be used to train the machine translation engine to further improve its operation.
+In a machine translation application, it would take a sentence in one language, and output its translation in another.
+In ChatBot, a Story is a scenario of a conversation that your chatbot has with users.
+Information is most useful when it is shared within the whole organization.
+In machine translation, texts are translated automatically with computer software so that a human translator does not directly participate in the process.
+In March 2016, AlphaGo won 4 out of 5 games of Go in a match with Go champion Lee Sedol, becoming the first computer Go-playing system to beat a professional Go player without handicaps.
+In practice, it is seldom possible to consider every possibility, because of the phenomenon of combinatorial explosion, where the time needed to solve a problem grows exponentially.
+In practice, the material to be translated is transmitted in an encrypted form between the client and the machine translation system.
+In such a case, padding the bounding box could help.
+In such a situation, the recipient can quickly and easily translate the original message into their own language, or the sender can take care of that.
+Integrated machine translation systems are commonly used in social media services where the posts of users can be translated into the reader’s own language with a single click.
+Internal emails and other written communication
+In the 2017 Future of Go Summit, AlphaGo won a three-game match with Ke Jie, who at the time continuously held the world No. 1 ranking for two years.
+In the early 1980s, AI research was revived by the commercial success of expert systems, a form of AI program that simulated the knowledge and analytical skills of human experts.
+In the following, we will go through some scenarios where machine translation can help with a company’s daily operations.
+In the late 1990s and early 21st century, AI began to be used for logistics, data mining, medical diagnosis and other areas.
+In the lexicon-based approach, the highest probable label sequence will be predicted.
+In the previous post, we looked at Attention – a ubiquitous method in modern deep learning models.
+In these cases, it is a good idea to classify products into more and less important ones, so that human quality assurance can be added for the translations of the most important products, if necessary.
+In the translation process with post-editing, the source material is first translated into the target language with machine translation, and a human editor then reviews and corrects the translation.
+In the twenty-first century, AI techniques have experienced a resurgence following concurrent advances in computer power, large amounts of data, and theoretical understanding; and AI techniques have become an essential part of the technology industry, helping to solve many challenging problems in computer science, software engineering and operations research.
+In this blog post, we will explain which text types are best suited for machine translation.
+In this post, we will attempt to oversimplify things a bit and introduce the concepts one by one to hopefully make it easier to understand to people without in-depth knowledge of the subject matter.
+In this post, we will look at The Transformer – a model that uses attention to boost the speed with which these models can be trained.
+In this technique, a sliding window passes through the image to detect the text in that window, like a convolutional neural network.
+It allows chatbots to perform tasks that would normally require human intelligence, like decision making, language translation, or speech recognition.
+It can be triggered when the user’s problem goes beyond the chatbot’s scope.
+It can be used in combination with any text recognition method.
+It can find horizontal and rotated bounding boxes.
+It could be a website, LiveChat, Facebook Messenger, WhatsApp, Slack, Kik, etc.
+It is also a great benefit that machine translation can be used to easily translate texts that would otherwise not be translated at all, such as email messages.
+It is also important that all parties are aware of the use of machine translation.
+It is in fact Google Cloud’s recommendation to use The Transformer as a reference model to use their Cloud TPU offering.
+It is worth mentioning as it is only a text detection method.
+It lets chatbots understand the context and meaning of a user’s message and react to it properly, even if the user makes a spelling mistake.
+It lets you create a more natural flow of conversation.
+It’s a default interaction that is triggered when the bot doesn’t recognize the user’s input.
+It’s a feature that allows you to make a copy of an existing chatbot scenario.
+It’s a toolset that lets apps communicate with other services and enables developers to integrate new apps into existing software.
+It seems due to image clarity, tesseract could not recognize it perfectly.
+It seems that stylized font with shadow in the background has affected the result in the above case.
+It should help you understand the basics of chatbot technology, and let you read and talk about it with ease.
+It’s shown right above the minimized chat widget.
+It was full of this secret programming language that was out of reach for the average reader.
+It would perform quite poorly in unstructured text with significant noise.
+Latte
+Leading AI textbooks define the field as the study of intelligent agents: any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+Learners also work on the basis of Occam's razor: The simplest theory that explains the data is the likeliest.
+Learning algorithms work on the basis that strategies, algorithms, and inferences that worked well in the past are likely to continue working well in the future.
+Let’s begin by looking at the model as a single black box.
+Let’s first look at how to calculate self-attention using vectors, then proceed to look at how it’s actually implemented – using matrices.
+Let's see text detection and recognition in action in the following code.
+Machine learning
+Machine learning (ML) is a branch of AI that allows chatbots to identify patterns in human language and learn from past conversations.
+Machine translation can also be used to translate PowerPoint presentations, intranet bulletins, and other similar documents.
+Machine translation can be integrated into the translation process so that the translations can be published automatically, or quality assurance by human professionals can be connected to the process.
+Machine translation can be particularly important in cases where an acute issue needs to be communicated to a large number of people.
+Machine translation can be used in a large variety of situations.
+Machine translation can be used in many ways, for instance, to follow the development of one’s field of expertise and to obtain competition-related information.
+Machine translation can help decrease or even eliminate the language barrier in communication.
+Machine translation can help in situations where speed is the most important factor.
+Machine translation engines can produce the same quality as a human translator for a few text types only.
+Machine translation helps the organization share essential information better.
+Machine translation helps with information sharing and communication
+Machine translation is also useful in the translation of internal documentation.
+Machine translation is an excellent choice in situations where having the materials translated by a human translator would be too large an investment.
+Machine translation is not fully replacing human translators, but it can help humans with texts that would otherwise probably not be translated at all.
+Machine translation systems integrated into an online store are often used in the travel industry’s online services and the online trade of consumer products.
+Many AI algorithms are capable of learning from data; they can enhance themselves by learning new heuristics (strategies, or rules of thumb, that have worked well in the past), or can themselves write other algorithms.
+Many people would in fact prefer communication in their native language, which would decrease ambiguity.
+Many systems attempt to reduce overfitting by rewarding a theory in accordance with how well it fits the data, but penalizing the theory in accordance with how complex the theory is.
+Many tools are used in AI, including versions of search and mathematical optimization, artificial neural networks, and methods based on statistics, probability and economics.
+Marvin Minsky agreed, writing, within a generation ... the problem of creating 'artificial intelligence' will substantially be solved.
+May be slight rotation would help.
+Modern machine capabilities generally classified as AI include successfully understanding human speech, competing at the highest level in strategic game systems (such as chess and Go), autonomously operating cars, intelligent routing in content delivery networks, and military simulations.
+Much of AI research involves figuring out how to identify and avoid considering a broad range of possibilities unlikely to be beneficial.
+Natural language processing
+Natural language processing (NLP) is a branch of AI that helps computers read, understand, and make sense of the human language.
+Next, we’ll switch up the example to a shorter sentence and we’ll look at what happens in each sub-layer of the encoder.
+Notice that these new vectors are smaller in dimension than the embedding vector. 
+Numeric 1 could not be detected at all.
+Often, all relevant information is recorded for future reference, either for development actions or just for maintenance.
+Often, the party offering a free translation service withholds the right to use the translated material.
+Once we have detected the bounding boxes having the text, the next step is to recognize text.
+One benefit of Acolad’s machine translation service is that a file can be attached to the machine translation order; there is no need to cut and paste the text.
+One of the benefits of this process is the delivery time – it is often shorter than with translation performed by a human translation from start to finish.
+One utilizes the fully convolutional network to directly produce word or text-line level prediction.
+Only a human can interpret, for instance, the multi-level meanings of a journalistic or literary text.
+Other cited examples include Microsoft's development of a Skype system that can automatically translate from one language to another and Facebook's system that can describe images to blind people.
+Others believe that AI, unlike previous technological revolutions, will create a risk of mass unemployment.
+Please contact us, and our experts will help you find the solution that best meets your needs.
+Product reviews can be easily translated into another language.
+Progress slowed and in 1974, in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects, both the U.S. and British governments cut off exploratory research in AI.
+Quick replies are short chatbot messages that suggest users possible options.
+Quick reply
+Region-based approach work in two steps.
+Remove the complex background from the image
+Remove the noise from the image
+Say we’re calculating the self-attention for the first word in this example, “Thinking”. 
+Sentiment analysis
+Sentiment analysis can help a chatbot analyze user messages and identify whether the person’s attitude towards certain products or services is negative, positive, or neutral.
+Sentiment analysis is a subfield of computer science that uses NLP and machine learning to measure the sentiment and tone of text or spoken language.
+Settling on a bad, overly complex theory gerrymandered to fit all the past training data is known as overfitting.
+So for each word, we create a Query vector, a Key vector, and a Value vector. 
+Software integration
+Software integration is the process of two or more applications being connected.
+So let’s try to break the model apart and look at how it functions.
+Some AI systems, such as nearest-neighbor, instead of reason by analogy, these systems are not generally given goals, except to the degree that goals are implicit in their training data.
+Some of the learners described below, including Bayesian networks, decision trees, and nearest-neighbor, could theoretically, (given infinite data, time, and memory) learn to approximate any function, including which combination of mathematical functions would best describe the world.
+Some people also consider AI to be a danger to humanity if it progresses unabated.
+Some systems implicitly or explicitly use multiple of these approaches, alongside many other AI and non-AI algorithms; the best approach is often different depending on the problem.
+So one cannot assume at this point that the output of a machine translation engine is always good.
+Standard objection detection techniques will also work here.
+Still, we have achieved good results with the EAST model and Tesseract.
+Story
+Sub-fields have also been based on social factors (particular institutions or the work of particular researchers).
+Such systematic errors can easily be fixed by training the translation engine further.
+Such systems can still be benchmarked if the non-goal system is framed as a system whose goal is to successfully accomplish its narrow classification task.
+Tesseract 4 added deep-learning based capability with LSTM network(a kind of Recurrent Neural Network) based OCR engine which is focused on the line recognition but also supports the legacy Tesseract OCR engine of Tesseract 3 which works by recognizing character patterns.
+Tesseract was originally developed at Hewlett-Packard Laboratories between 1985 and 1994.
+Text detection techniques required to detect the text in the image and create and bounding box around the portion of the image having text.
+Texts with a short life cycle
+Thanks to machine learning, properly programmed AI chatbots can improve over time without the help of a human.
+The AI field draws upon computer science, information engineering, mathematics, psychology, linguistics, philosophy, and many other fields.
+The article here proved to be a helpful resource in writing the code for this project.
+The biggest benefit, however, comes from how The Transformer lends itself to parallelization.
+The bounding box can be created around the text through the sliding window technique.
+The bulletins and advertisements of a local competitor can be translated, as well as the content of local patents.
+The capability of the Tesseract was mostly limited to structured text data.
+The convolution neural network extracts features from the input image(text detected region).
+The decoder has both those layers, but between them is an attention layer that helps the decoder focus on relevant parts of the input sentence (similar what attention does in seq2seq models).
+The deep bidirectional recurrent neural network predicts label sequence with some relation between the characters.
+The development of metal–oxide–semiconductor (MOS) very-large-scale integration (VLSI), in the form of complementary MOS (CMOS) transistor technology, enabled the development of practical artificial neural network (ANN) technology in the 1980s.
+The earliest (and easiest to understand) approach to AI was symbolism (such as formal logic): If an otherwise healthy adult has a fever, then they may have influenza.
+The encoder’s inputs first flow through a self-attention layer – a layer that helps the encoder look at other words in the input sentence as it encodes a specific word. 
+The exact same feed-forward network is independently applied to each position.
+The feed-forward layer does not have those dependencies, however, and thus the various paths can be executed in parallel while flowing through the feed-forward layer.
+The field of AI research was born at a workshop at Dartmouth College in 1956, where the term Artificial Intelligence was coined by John McCarthy to distinguish the field from cybernetics and escape the influence of the cyberneticist Norbert Wiener.
+The field was founded on the assumption that human intelligence can be so precisely described that a machine can be made to simulate it.
+The first step in calculating self-attention is to create three vectors from each of the encoder’s input vectors (in this case, the embedding of each word). 
+The first work that is now generally recognized as AI was McCullouch and Pitts' 1943 formal design for Turing-complete artificial neurons.
+The goal is to share information within the entire organization so that as many employees as possible have access to the best information that supports for their work.
+The idea in post-edited machine translation is that a human corrects any obvious errors made by a machine.
+Their dimensionality is 64, while the embedding and encoder input/output vectors have dimensionality of 512. 
+The Kinect, which provides a 3D body–motion interface for the Xbox 360 and the Xbox One, uses algorithms that emerged from lengthy AI research as do intelligent personal assistants in smartphones.
+The language of the translation is not necessarily error-free or fully logical, but it can be understood.
+The language skills of employees can vary a lot.
+The latest stable version 4.1.0 is released on July 7, 2019.
+The model performed pretty decently here.
+The model performed pretty well here.
+The Nanonets OCR API allows you to build OCR models with ease.
+The need to translate them is often urgent.
+The network architecture has been taken from this paper published in 2015.
+The next few years would later be called an AI winter, a period when obtaining funding for AI projects was difficult.
+Then there are texts for which quick delivery is the most important thing.
+The outputs of the self-attention layer are fed to a feed-forward neural network. 
+The produced predictions which could be rotated rectangles or quadrangles are further processed through the non-maximum-suppression step to yield the final output.
+There are dependencies between these paths in the self-attention layer. 
+There are several techniques for recognizing the text.
+There are single-shot detection techniques like YOLO(you only look once) and region-based text detection techniques for text detection in the image.
+There are two modes of transcription, namely the lexicon-free and lexicon-based transcription.
+Therefore, according to Occam's razor principle, a learner must be designed such that it prefers simpler theories to complex theories, except in cases where the complex theory is proven substantially better.
+There is a convolutional implementation of the sliding window which can reduce the computational time.
+There is a non-uniform background here, maybe generating a uniform background would have helped this case.
+There is no need for the produced content to be available in only one language when the material can be effortlessly translated into other languages.
+The relationship between human translators and machine translation systems has been that the machine translation engine has been trained with translations created by human translators.
+There may also be large quantities of various instructions, but translating them is not considered a viable option due to the cost.
+The resulting cost is often considered too high.
+The reviews are typically translated into the language of the customer's web browser.
+The score determines how much focus to place on other parts of the input sentence as we encode a word at a certain position.
+These are the standard ways to preprocess image in a computer vision task.
+These characters and their fates raised many of the same issues now discussed in the ethics of artificial intelligence.
+The second step in calculating self-attention is to calculate a score. 
+These four main approaches can overlap with each other and with evolutionary systems; for example, neural nets can learn to make inferences, to generalize, and to make analogies.
+These inferences can be obvious, such as since the sun rose every morning for the last 10,000 days, it will probably rise tomorrow morning as well.
+These issues have been explored by myth, fiction and philosophy since antiquity.
+These sub-fields are based on technical considerations, such as particular goals (e.g. robotics or machine learning), the use of particular tools (logic or artificial neural networks), or deep philosophical differences.
+These vectors are created by multiplying the embedding by three matrices that we trained during the training process.
+The strength of human translators is still the quality of the translation.
+The study of mathematical logic led directly to Alan Turing's theory of computation, which suggested that a machine, by shuffling symbols as simple as 0 and 1, could simulate any conceivable act of mathematical deduction.
+The study of mechanical or formal reasoning began with philosophers and mathematicians in antiquity.
+The success was due to increasing computational power (see Moore's law and transistor count), greater emphasis on solving specific problems, new ties between AI and other fields (such as statistics, economics and mathematics), and a commitment by researchers to mathematical methods and scientific standards.
+The text detection pipeline in this paper has excluded redundant and intermediate steps and only has two stages.
+The third factor is price: there may be massive amounts of documentation stored in archives that remain untranslated simply because of the cost.
+The third major approach, extremely popular in routine business AI applications, are analogizers such as SVM and nearest-neighbor: After examining the records of known past patients whose temperature, symptoms, age, and other factors mostly match the current patient, X% of those patients turned out to have influenza.
+The traditional problems (or goals) of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception and the ability to move and manipulate objects.
+The transcription layer converts the per-frame made by RNN into a label sequence.
+The Transformers outperforms the Google Neural Machine Translation model in specific tasks.
+The Transformer was proposed in the paper Attention is All You Need.
+The translated material only remains in the memory of the machine translation engine for a short time, and it is not used for any other purposes.
+The translation quality produced by machine translation is not sufficient as such in many situations.
+The typing delay is a scrollbar that enables you to set up how fast your chatbot should respond to user input.
+The undisputed strength of machine translation is the speed of the translation process.
+The word order may be odd, or a single word may have been replaced with a strange synonym.
+They and their students produced programs that the press described as astonishing: computers were learning checkers strategies (c. 1954) (and by 1959 were reportedly playing better than the average human), solving word problems in algebra, proving logical theorems (Logic Theorist, first run c. 1956) and speaking English.
+They can be nuanced, such as X% of families have geographically separate species with color variants, so there is a Y% chance that undiscovered black swans exist.
+They don’t HAVE to be smaller, this is an architecture choice to make the computation of multiheaded attention (mostly) constant.
+They failed to recognize the difficulty of some of the remaining tasks.
+They help users make their decision faster and improve the flow of the conversation.
+They retrieve information from chatbot conversations, like email addresses or telephone numbers, and pass them automatically to web services.
+This comes in handy if you want to personalize your chatbot communication.
+This enables even young children to easily make inferences like If I roll this pen off a table, it will fall on the floor.
+This insight, that digital computers can simulate any process of formal reasoning, is known as the Church–Turing thesis.
+This is a very robust deep learning method for text detection based on this paper.
+This marked the completion of a significant milestone in the development of Artificial Intelligence as Go is a relatively complex game, more so than Chess.
+This model does not need character segmentation.
+This neural network architecture integrates feature extraction, sequence modeling, and transcription into a unified framework.
+This option is for situations where a translation is needed as soon as possible.
+This raises philosophical arguments about the mind and the ethics of creating artificial beings endowed with human-like intelligence.
+This version is significantly more accurate on the unstructured text as well.
+This way, even texts containing business secrets can be translated using machine translation.
+This way, information can be distributed to a considerably wider target audience within the company.
+Thought-capable artificial beings appeared as storytelling devices in antiquity, and have been common in fiction, as in Mary Shelley's Frankenstein or Karel Čapek's R.U.R. (Rossum's Universal Robots).
+To create a Story, you need to use conversational elements like bot responses, user input, attributes, entities, etc.
+Today, machine translation works best in scenarios where a text needs to be conveyed in an understandable form in another language.
+Today’s machine translation systems can help with companies’ internal and, in some cases, external communication – at least when the text they produce is reviewed before publication.
+Transfer
+Transfer is an action that redirects a chatbot user to a live chat agent.
+Transfer to a human agent
+Turing proposed changing the question from whether a machine was intelligent, to whether or not it is possible for machinery to show intelligent behaviour.
+Typing delay
+User: Anna.
+User: I would like to order coffee.
+Usually, the most important thing for the reader is to understand the essential content of the review; it does not matter if the machine translation engine occasionally makes some silly mistakes or formulates sentences in a clumsy way.
+Webhooks
+Webhooks, also called a web callback, are automated API responses.
+We can not expect the OCR model to be 100 % accurate.
+We’ll look closer at self-attention later in the post.
+We need to score each word of the input sentence against this word. 
+We try with different window size to not miss the text portion with different size.
+We will be discussing some of the best techniques in the following section.
+We will be seeing this EAST model in action along with text recognition.
+We will not be focusing on preprocessing step in this blog.
+We will use some of the images to show both text detection with the EAST method and text recognition with Tesseract 4.
+What are the best uses for machine translation?
+What does machine translation mean?
+When an online store is operating in multiple countries, using machine translation for translating reviews can be an excellent way to serve customers.
+When an understandable, useful and reviewed text is needed fast, the combination of machine translation and post-editing can be the right choice.
+When better quality is needed
+When, for instance, a disturbance in production can be announced quickly to a large group of people, the problem can also be responded to quickly and effectively.
+When the best translation quality is called for, or the text type is difficult for a machine translation engine, the use of a human translator should be selected.
+When the product catalog of an online store is extensive, machine translation is quite commonly used for translating product information.
+With free, publicly available machine translation services, there is a risk that the translated text will remain in the translation engine’s memory.
+YOLO is single-shot techniques as you pass the image only once to detect the text in that region, unlike the sliding window.
+You can also find this code for this project on a Kaggle kernel to try it out on your own.
+You can also use the Nanonets-OCR- API by following the steps below:
+You can create your list of entities so that your chatbot can identify and retrieve them from user responses.
+You can refer one of my previous article to understand techniques for object detection, in our case text detection.
+You can see that bounding boxes are mostly correct as they should be.
+You can upload your data, annotate it, set the model to train and wait for getting predictions through a browser based UI.
+You get the machine translation almost immediately for your use.
+Each of these kinds of bonds is ascribed to some potential.
+These potentials create the interactions which hold atoms together in molecules or crystals.
+In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion.
+The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them.
+For example, sodium (Na), a metal, loses one electron to become an Na+ cation while chlorine (Cl), a non-metal, gains this electron to become Cl−.
+The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
+In a covalent bond, one or more pairs of valence electrons are shared by two atoms: the resulting electrically neutral group of bonded atoms is termed a molecule.
+Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom.
+Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule.
+However, some elements like hydrogen and lithium need only two electrons in their outermost shell to attain this stable configuration; these atoms are said to follow the duet rule, and in this way they are reaching the electron configuration of the noble gas helium, which has two electrons in its outer shell.
+Similarly, theories from classical physics can be used to predict many ionic structures.
+With more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used.
+See diagram on electronic orbitals.
+In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure.
+Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved.
+Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
+A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse.
+A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy.
+The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor.
+that is the probability of a molecule to have energy greater than or equal to E at the given temperature T.
+This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation.
+The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics.
+There exist only limited possible states of energy for electrons, atoms and molecules.
+These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system.
+The atoms/molecules in a higher energy state are said to be excited.
+The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
+The phase of a substance is invariably determined by its energy and the energy of its surroundings.
+When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds.
+Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+The transfer of energy from one chemical substance to another depends on the size of energy quanta emitted from one substance.
+However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer.
+Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy.
+For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
+The existence of characteristic energy levels for different chemical substances is useful for their identification by the analysis of spectral lines.
+Different kinds of spectra are often used in chemical spectroscopy, e.g. IR, microwave, NMR, ESR, etc.
+Spectroscopy is also used to identify the composition of remote objects – like stars and distant galaxies – by analyzing their radiation spectra.
+The term chemical energy is often used to indicate the potential of a chemical substance to undergo a transformation through a chemical reaction or to transform other chemical substances.
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred.
+A chemical reaction is therefore a concept related to the "reaction" of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both.
+It results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels—often laboratory glassware.
+Chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more molecules or rearrangement of atoms within or across molecules.
+Chemical reactions usually involve the making or breaking of chemical bonds.
+Oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
+A chemical reaction can be symbolically depicted through a chemical equation.
+While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz. protons and neutrons.
+The sequence of steps in which the reorganization of chemical bonds may be taking place in the course of a chemical reaction is called its mechanism.
+A chemical reaction can be envisioned to take place in a number of steps, each of which may have a different speed.
+It's hard to know what qualifies as a neuroscience-specific gift, but we've scoured several sources to find the most popular and high-quality gifts for neuroscientists that will definitely win a smile. 
+Whether it’s a graduation gift, birthday present or Christmas gift, I hope this gift guide helps you finish your shopping faster than ever. 
+Show them you understand their passion for neuroscience and relish the moment when they geek out over your perfect gift.
+This list is a compilation of our favorites from around the internet. 
+Some are our own Genius Lab Gear inventions and some we’re just jealous we didn’t think of first!
+Some external links in this page are from affiliates, which means that any purchase of the items after clicking the link will result in a small monetary referral fee paid back to Genius Lab Gear at no cost to you. 
+We appreciate your support which allows us to continue inventing and testing the best tools for scientists on the planet!
+Science-themed gifts are rarely as entertaining and enduring as our science-themed word magnet sets! We recently launched these to encourage creativity and self-expression in labs, classrooms and offices. 
+Each specialty pack comes with 144 tiles carefully designed by a PhD in that field for technical accuracy and tacit absurdity.
+The Neuroscience word magnet set was designed by Dr. Stephanie Caligiuri, who hosts The People's Scientist podcast about Neuroscience. 
+These are an exceptionally good gift because the recipient will see them daily and use them often!
+You see a science pin. 
+A stranger sees a conversation starter. 
+Science On A Postcard was started by Heidi Gardner after a stranger in an airport told her "You don't look like a scientist." 
+Wear this neuroscientist enamel pin proudly and help us engage the public in a dialogue about the role of science and scientists in society. 
+Show them what a microbiologist looks like! 
+These pins are a perfect gift for their lab coat, conferences, outreach events or every-day wear!
+We have these pins in stock in our store for sale in the USA only, which is up to a week faster than ordering from Heidi's office in the UK. 
+This next one may seem like a young child's toy, but we've seen many PhD's in neuroscience purchase and love these to death. 
+This amazing company makes a full line of plush organs and cells the size of a small stuffed animal! This is is a neuron (brain cell), and they also have a full plush brain! 
+For a tight budget, you can grab any of these fun science stickers for $3-$5 with free shipping anywhere in the world! Many of these support a specific cause or group promoting diversity or positive changes in public policy. 
+They are waterproof and perfect for a thermos, laptop or notebook!
+Ethanol precipitation is an important separation and purification process in the traditional Chinese medicines (TCMs) industry.
+In the present study, a membrane dispersion micromixer was applied to achieve good mixing for the ethanol precipitation process of Astragali radix concentrate.
+New experimental apparatus was set up to rapidly lower the temperature of ethanol solution before mixing with the concentrate.
+Ethanol precipitation process was optimized according to Quality by design concept.
+To identify critical material attributes (CMAs), ten batches of Astragali radix were used to prepare concentrates.
+Calycosin-7-O-β-D-glucoside content, the sucrose content, and the electrical conductivity were found to be CMAs after the correlation analysis and stepwise regression modelling.
+Definitive screening design was used to investigate the relationships among critical process parameters, CMAs, and process critical quality attributes (CQAs).
+Quadratic models were developed and design space was calculated according to the probability of attaining process CQA standards.
+A material quality control strategy was proposed.
+High quality and low quality Astragali radix concentrates can be discriminated by the inequalities.
+Low quality Astragali radix concentrates should not be released for ethanol precipitation process directly.
+Verification experiment results indicated accurate models and reliable design space.
+The temperature control method and control strategy are promising for ethanol precipitation process of other TCMs or foods.
+in this work, a membrane dispersion micromixer was used for continuously adding ethanol solution to Astragali radix concentrates.
+Temperature control was enhanced by rapid cooling.
+Ethanol precipitation process was optimized according to a design space approach.
+CMAs of Astragali radix extracts were identified.
+Definitive screening design was used to investigate the relationships among CPPs, CMAs and CQAs.
+The models were then developed and the design space was calculated.
+A material quality control strategy considering the requirements of manufacturing processes was proposed.
+Verification experiments were carried out for high quality Astragali radix concentrates.
+Figure 1 is a schematic diagram of this work.
+Ethanol solution at room temperature was cooled with a heat exchanger (K030-20M-NB4, Ningbo Gaori Technology Co., Ltd.).
+The heat exchanger was connected to the refrigeration circulation device (CA-1116A, Tokyo Rikakikai, Co. Ltd.).
+The heat transfer medium in the heat exchanger was 60% ethylene glycol–water (v/v).
+The low-temperature ethanol solution was served as the dispersed phase pumped into the micromixer by a gear pump (CT3001F, Baoding Reef Fluid Technology Co., Ltd.).
+A concentrate was pumped into the micromixer by an advection pump (2PB-20005II, Beijing Xingda Technology Development Co., Ltd.) as the continuous phase.
+The outlet mixture was collected in a jacketed beaker and magnetically stirred for 5 min.
+The temperature of the jacketed beaker was controlled by a thermostatic bath (THYD-1030W, Ningbo Tianheng instrument factory).
+The medium in the thermostatic bath connected to the jacketed beaker is 30% glycerol–water (v/v).
+The supernatant was collected after filtration.
+After an experiment, the apparatus was washed with 0.05% (wt.) Na2CO3 solution and ethanol sequentially.
+The low-temperature ethanol solution and a temperature-controlled jacketed beaker were used to control the temperature of the mixture together.
+The use of low temperature ethanol solution could reduce the temperature of the mixture in a short time.
+The temperature controlled jacketed beaker was used to control the temperature precisely.
+The temperature ranges are shown in Table S1.
+The imposing cliffs of Pointe de Hoc overlook the Normandy beaches where Allied troops landed on June 6 1944.
+The assaults marked the beginning of the liberation of German-occupied Europe.
+And the cliff tops were the perfect spot for artillery pieces capable of devastating any troops who tried to attack the Omaha and Utah beachheads.
+The Allied command knew this and so, to shore up the attack, the navy bombarded Pointe de Hoc.
+Afraid this might not be enough, they also had a backup plan.
+A team of US Rangers scaled the 30-metre cliffs and, after locating the weaponry, deployed grenades, destroying the guns.
+The key to success was the choice of thermite-based charges.
+Yup, just good old iron oxide and aluminium.
+Ok, so what this got to do with self-heating cans?
+These were essentially a stove and can rolled into one, with a tube of cordite (more typically used as the propellant in small arms ammunition) running through the centre of the can to act as fuel.
+The cans were quick and easy to use and could be lit with a cigarette, allowing troops to prepare a hot meal in under five minutes.
+Unfortunately, they also had a tendency to explode, showering the assembled squaddies with piping hot soup.
+Since then, there have been numerous attempts to make self-heating cans into a mainstream product.
+Most relied on a rather less volatile reaction to provide the heat, although some have still struggled with explosive issues.
+ Calcium oxide heats up rapidly when mixed with water.
+But it’s not particularly efficient, producing about 60 calories of energy per gram of reactant.
+The upshot is that, to heat the drink by 40℃, you need a heating element that takes up nearly half the packaging.
+That’s just about OK if you want a small drink on a warm day, but in the depths of winter, when you might really want a hot drink, you only end up with a tepid coffee.
+What’s needed is a much more efficient reaction.
+Something, like thermite perhaps? 
+As crazy as packing a can with a reaction capable of disabling an artillery gun may seem, that’s just what HeatGenie is planning.
+Over the last ten years, the firm has filed numerous patents describing the use of thermite within self-heating cans.
+It turns out the reaction used by the US Rangers is still too hot to handle, so they’ve dialled things back a bit by replacing the rust with a less reactive but no less familiar material, silicon dioxide.
+So the latest generation of heated cans is fuelled on aluminium and ground-up glass.
+When this reaction is triggered it still kicks out a whopping 200 calories per gram of reactant and can achieve 1,600℃.
+Given the troubled history of self-heating packaging, releasing this much energy from the can in your hand might be a bit of a concern, so several of HeatGenie’s patents cover safety issues.
+These include a complex arrangement of “firewalls” that can block the so-called “flamefront” should things get too hot, and energy-absorbing “heatsinks” to ensure the heat is efficiently transmitted around the drink, as well as vents to let off any steam.
+With all that is place, the company claims just 10% of the packaging is taken up by the heating elements, which can still produce a warm coffee in two minutes (although the exact temperature hasn’t been revealed).
+A US technology firm is hoping to make a very old idea finally work by launching self-heating drinks cans.
+HeatGenie recently received US$6m to bring its can design to market in 2018, .
+Yet the principles behind the technology go back much further – to 1897, when invented the first self-heating can.
+So how do these cans work, why has no one has managed to make them a success, and what’s HeatGenie’s new approach? 
+To answer that, we have to go back to World War II.
+So, well over a century on fromRussian engineer Yevgeny Fedorov first attempts to make self-heating cans and more than 15 years after Nestle abandoned a similar idea, has HeatGenie final cracked it?
+Judging from the patents and investments, the firm might have sorted out the technical side, but whether it really has a hot product on its hands is another thing entirely.
+Happy Mole Day! 
+It’s the 23rd of October and, at least where I am right now, it’s still between 6:02 am and 6:02 pm, so that means it’s time for chemists to celebrate! 
+Of course, I’m in the U.K., so the date thing doesn’t quite work — for me this is 23/10, not 10/23 — but since there are only 12 months in a year (even in 2020) the British system is a bit unsatisfactory, so I’ll go with the American date format for the day.
+There are literally loads of atoms in everything
+What’s a mole? 
+Well, to paraphrase Douglas Adams: atoms are small.
+You just won’t believe how vastly, hugely, mind-bogglingly small they are.
+I mean, you may think the latest incarnation of the walnut whip is small, but that’s just peanuts to atoms Or even walnuts.
+There are literally loads and loads of atoms in everything.
+There are so many of the blasted things that the numbers are a real pain to deal with.
+A teaspoon of table sugar, for example, has about 7,400,000,000,000,000,000,000 sucrose molecules in it, and since each sucrose molecule contains 45 atoms, that’s a whopping 330,000,000,000,000,000,000,000 atoms.
+And that’s not even a heaped teaspoon.
+Even if we used standard form and wrote that last number as, for example, 3.3 x 1023 it’s a bit of a pain.
+And chemists are far too busy to write things out in full — why do you think they came up with all these symbols in the first place? 
+so what we do is we pick a convenient amount, which turns out to be 6.022 x 1023, and call that a “mole”.
+It’s just like calling twelve eggs “a dozen” only, you know, bigger.
+I’m not going to explain the origin of the actual number further than this.
+There’s an awesome graphic here from Compound Interest and, if you want to know more, just click through.
+What I am going to do are some… interesting mole calculations.
+People usually do grains of sand or coins or something.
+But those are so boooorrring.
+It’s nearly Halloween, right? 
+I say we go gruesome.
+Let’s start with blood!
+A healthy adult has about 35 trillion red blood cells in their body at any given moment.
+(Vampires, presumably, have even more… although… do vampires make their own blood supply? Interesting question…).
+35 trillion is a big number, right? 
+A trillion is a million million (on the short scale, which everyone uses, don’t start), 1,000,000,000,000, or 1012, so 35 trillion is 3.5 x 1013.
+But that’s only 0.000000000058 of a mole! 
+Even if we count everyone on the planet, we only get to 0.45 of a mole.
+Yes, that’s right.
+Even if we drained the blood out of every, single human on the planet, we’d only about half a mole of red blood cells.
+Ooh, how about bacteria? 
+We have a lot of those on us, right? 
+In fact, we have more microbes in and on our bodies than human cells! 
+(Well, we can argue about the definition of “human” here, I suppose, but… let’s not.) 
+Apparently there are around 3.8 x 1013 bacteria in our colons which means… damn.
+This is the blood cells thing all over again, isn’t it? 
+If we took all the humans on the planet, sucked out their gut bacteria (don’t ask) and collected it all together (really, don’t) we’d have, yes, a little under half a mole of microbes.
+Don’t tell the tooth fairy’s boss.
+She really IS scary.
+Okay, this is all very well, but it’s not helping us get an idea of scale, is it? 
+All right.
+Let’s try human teeth.
+Why not? 
+I mugged the tooth fairy for this one (she’s much tougher than she looks), and it’s about 8 mm long.
+Adult teeth are a bit larger, of course, but the fairy has less of those.
+Let’s assume 1 cm to make things easier.
+That’s 0.01 m.
+If we had a mole of human teeth they would stack up to… 6.02 x 1021 metres, or 6.02 x 1018 km, or (we need to ramp this up a bit) about 640,000 light years.
+That would reach a little dwarf galaxy in the constellation of Canes Venatici, somewhere in the general neighbourhood of the Milky Way.
+Or, alternatively, to Neptune and back….
+some 670 million times.
+Gosh.
+What about… hair? 
+A fine human hair is about 0.05 mm across, which means a mole of (fine) hair would be 3.01 x 1019 metres thick.
+The diameter of the Earth is 12,700,000 metres so that’s about… 2,400,000,000,000 times wider than the Earth.
+Even Rapunzel might struggle with that much hair.
+As I write this it’s the last day of September in the U.K.
+, which means we’re well into meteorological autumn and summer is, at least here, a distant memory.
+The weather is cooler and the days are getting shorter.
+Soon, the clocks will go back an hour, and we’ll shift from BST (British Summer Time) to GMT (Greenwich Mean Time).
+Seasons in the U.K. are particularly marked because of our northerly latitude.
+British weather tends to be fairly mild (thanks, Gulf Stream), and it’s easy to forget just how far north we are – but a quick look at a globe makes it clear: London is actually further north than most of the major Canadian cities, while the Polar Bear Provincial Park in Ontario is roughly on the same latitude as Scotland’s capital city, Edinburgh.
+Yes, I hear you say, but what on Earth (hoho) does this have to do with chemistry?
+Well, a clever little piece of chemistry happens in human skin, and, if you live in the U.K., it’s about to stop.
+At least, until next spring.
+Some clever chemistry happens in human skin.
+There’s a substance in your skin called 7-dehydrocholesterol (7-DHC).
+It is, as the name suggests, something to do with cholesterol (which, despite its bad press, is an essential component of animal cell membranes).
+In fact, 7-DHC is converted to cholesterol in the body, but it’s also converted to something else.
+You will have heard of vitamin D.
+It helps us to absorb calcium and other minerals, and if children, in particular, don’t get enough it can lead to rickets – which leads to weak bones, bowed legs and stunted growth.
+Vitamin D deficiency has also been linked to lots of other health problems, including increased risk of certain cancers, heart disease, arthritis and even type one diabetes.
+More recently, vitamin D has been linked to COVID-19.
+It’s estimated that around 80-85% of people who contract COVID-19 experience mild or no symptoms, while the rest develop severe symptoms and, even if they recover, may suffer life-altering after-effects for many months.
+Early data suggest that patients with low vitamin D levels are much more likely to experience those severe symptoms.
+There’s a plausible mechanism for this: vitamin D helps to regulate the immune system and, in particular, helps to reduce the production of cytokines.
+It’s possible that having inadequate levels of vitamin D may increase your chances of a severe response to COVID-19.
+Cytokines are small proteins which are important in cell signalling, but if the body starts to produce too many in response to a virus it can cause something called a cytokine storm, which can lead to organ failure and death.
+It’s proposed that having the right levels of vitamin D might help to prevent such cytokine storms, and therefore help to prevent a severe COVID-19 response.
+This is all early stages, because everyone is still learning about COVID-19, and it may turn out to be correlation without causation, but so far it looks promising.
+One thing you many not know is that vitamin D is, technically, misnamed.
+Vitamins are, by definition, substances which are required in small quantities in the diet, because they can’t be synthesised in the body.
+But vitamin D, which is actually a group of fat soluble molecules rather than a single substance, can be synthesised in the body, in our skin.
+The most important two in the group are ergocalciferol (vitamin D2) and cholecalciferol (vitamin D3), sometimes known collectively as calciferol.
+Shiitake mushrooms are a good source of vitamin D2.
+Vitamin D2 is found in fungi, but it’s cleared more quickly from the body than D3, so needs to be consumed in some form daily.
+Mushrooms are a good source (especially if they’ve been exposed to UV light), so if you like mushrooms, that’s one way to go.
+Vitamin D3 is hard to obtain from diet – the only really good source is oily fish, although other foods are fortified – but that’s okay because, most of the time, we don’t need to eat it.
+Which brings us back to 7-DHC.
+It’s found in large quantities in the skin, although exactly how it gets there has been the subject of some debate.
+It used to be thought it was formed from cholesterol via an enzymatic reaction in the intestine wall and then transported to the skin via the bloodstream.
+But the trouble with this idea is that the blood would pass through the liver, and 7-DHC would be reconverted to cholesterol, never having a chance to build up in skin.
+A more robust theory is it’s actually synthesised in the skin in the first place, particularly since higher levels are found in a layer closer to the surface (the stratum spinosum) than in the deeper dermis.
+We make vitamin D in our skin when we’re exposed to UVB light from the sun.
+Anyway, the important thing is that 7-DHC absorbs UV light, particularly wavelengths between 290 and 320 nm, that is, in the UVB range, sometimes called “intermediate” UV (in contrast with “soft” UVA, and “hard” UVC).
+When exposed to UVB light, one of the rings in the 7-DHC molecule breaks apart, forming something known pre-D3, that then converts (isomerises) to vitamin D3 in a heat-sensitive process.
+In short, we make vitamin D3 in our skin when we’re in the sunshine.
+Obviously we need to avoid skin damage from UV light, but the process doesn’t take long: 10-15 minutes of midday sunlight three times a week, in the U.K. in the summer, is enough to keep our levels up.
+Sun exposure is by far the quickest, and certainly the cheapest, way to get your vitamin D.
+If you live somewhere where that’s possible.
+Here’s the thing, though, if you live in the U.K., for a chunk of the year, it’s just not.
+I’ve pinched the graph here from my husband, whose work involves solar panels, because it makes a nice visual point.
+The amount of sunlight we’re exposed to in the U.K. drops sharply in autumn and winter.
+From April – September, there’s plenty of energy available from sunlight.
+But look at what happens from October – March.
+The numbers drop drastically.
+And here’s the thing: it turns out that vitamin D production in human skin only occurs when UV radiation exceeds a certain level.
+Below this threshold? 
+Well, no photocoversion takes place.
+In short: if you live in the U.K. you can’t make vitamin D in your skin for a few months of the year.
+And those few months are starting… round about now.
+The NILU has a web page where you can calculate how much vitamin D you can synthesise in your skin on a given day.
+If you want to experiment, there’s a website here, published by the Norwegian Institute for Air Research (NILU), where you can enter various parameters – month, longitude, cloudiness etc – and it will tell you how many hours during a given a day it’s possible to synthesise vitamin D in your skin.
+Have a play and you’ll see that, for London, vitamin D synthesis drops off to zero somewhere around the end of November, and doesn’t restart until sometime after the 20th of January.
+In Edinburgh, the difference is even more marked, running from the first week or so of November to the first week of February.
+It’s important to realise that it tails off, too, so during the days either side of these periods there’s only a brief period during midday when you can synthesise vitamin D.
+And all this assumes a cloudless sky which in this country… is unlikely.
+The situation is worse still if you have darker skin because the skin pigment, melanin, absorbs UVB.
+On the one hand, this is a good thing, since it protects skin cells from sun-related damage.
+But it also reduces the ability to synthesise vitamin D.
+In short, wimpy autumn and winter sunshine just isn’t going to cut it.
+Likewise, to state the obvious, anyone who covers their skin (with clothing or sunblock), also won’t be able to synthesise vitamin D in their skin.
+Fortunately, there’s a simple answer: supplements.
+The evidence is fairly solid that vitamin D supplements increase blood serum levels as well as, if not better than, sunshine – which, for the reasons mentioned above, can be difficult to obtain consistently.
+Now, as I’ve said many times before, I’m not a medical doctor.
+However, I’m on fairly safe ground here, because Public Health England do actually recommend everyone take a vitamin D supplement from October to May.
+That is, from now. Yes, now.
+I do need to stress one point here: DO NOT OVERDO IT.
+There always seems to be someone whose reasoning goes along the lines of, “if one tablet is good, then ten will be even better!” and, no. No.
+Excessive doses of vitamin D can cause vomiting and digestive problems, and can lead to hypercalcemia which results in weakness, joint pain confusion and other unpleasant symptoms.
+If you live in the U.K. you should be taking a vitamin D supplement from October-May.
+Public Health England recommend everyone in the U.K. take 10 micrograms per day in autumn and winter.
+Babies under one year should also be given 8.
+5–10 micrograms of vitamin D in the form of vitamin drops, unless they’re drinking more than 500 ml of infant formula a day (because that’s already fortified).
+Amounts can get a little confusing, because there are different ways to measure vitamin D doses, and in particular you may see IU, or “international units“.
+However, if you buy a simple D3 supplement, like this one that I picked up at the supermarket, and follow the dose instructions on the label, you won’t go far wrong.
+So, should you (and everyone else in your family) be taking a simple vitamin D supplement right around now? 
+If you live in the U.K., or somewhere else very northerly, then yes.
+Well, unless you’re really keen to eat mushrooms pretty much every day.
+At worst, it won’t make much difference, and at best, well, there’s a chance it might help you to avoid a really unpleasant time with COVID-19, and that’s got to be a good thing.
+But, look, it’s not toilet roll.
+Don’t go and bulk buy vitamin D, for goodness sake.
+When you mix bromine with another molecule that has a carbon-carbon double bond, the bromine can add across the double bond.
+The bromine atoms are very heavy - about 80 times as heavy as a hydrogen atom, or 7 times as heavy as a carbon atom. Bromination usually gives you a molecule that has higher density than the parent molecule.
+Vegetable oil - which has a density of about 0.9 grams per milliliter - can be made as dense as water (i.e., 1 gram per milliliter) by adding the right amount of bromine.
+Brominated vegetable oil can give an emulsion in water that is opaque and visually pleasing - it turns up in all kinds of opaque sodas and sugar/sport drinks. 
+Is it OK to ingest bromine? 
+Just about everyone gets away with the small amount he takes in from the occasional soda, but it's definitely possible to ingest too much - awhile back, there was a case of a person who drank as much as a gallon a day of BVO-containing soda. Turns out, he got bromine poisoning!
+edox-active transition metal complexes, those that can undergo multiple oxidation and reduction events, are ideal candidates for electrochemical energy storage and fuel technologies.
+A significant caveat to employing these complexes for electrochemical processes is that their solubilities can drastically change across redox states, creating insoluble oxidation or reduction products that precipitate out of solution.
+Even when the insoluble redox product is still chemically-intact (as in a reversible electrochemical reaction), it can often be difficult to electrochemically convert it back to its original, soluble redox state.
+Researchers in the US have now come up with a new technique to overcome this, using ferrocene as a redox mediator to assist with electron-transfer between the insoluble materials and electrodes.
+In addition to the experimental studies, the researchers also turned to mathematical modelling to gain more understanding of electrochemically-driven solubility cycling in electrochemical reactions. 
+Two models were presented showing the effect of the deposited materials on the electrochemical response, either with or without possible electrode inhibition effects. 
+Overall, the researchers have presented a unique strategy for improving the reversibility of redox reactions that are limited by insoluble redox products, which is beneficial for systems where both materials deposit on electrodes or are suspended in solution.
+Admission by Transfer Certificate .
+Admission by Private Study .
+The transfer certificate should be endorsed by the Inspecting Officer, concerned when a student joins in a Matriculation School / Anglo-Indian school from a State Board School .
+For admission of private study candidates the Headmaster of the school administers a test to evaluate the merit of the student to be admitted in the class for which admission is sought .
+Syllabus
+The Tamil Learning Act 2006 has made the study of Tamil a compulsory subject in all the schools of the State .
+Accordingly in the academic year 2006-2007 Tamil is introduced as a compulsory subject in standard 1 .
+During 2007-2008 it is made compulsory in Standard II . Likewise Tamil will be made a compulsory subject in phase up to Standard X .
+Anglo-Indian Syllabus:
+Part I - Tamil
+Part II - English
+Part III - General subjects (Maths, Science, Social Science) – (English Medium)
+Part IV - Anyone of the other languages can be studied as an elective subject .
+Matriculation Syllabus:
+Part I - Tamil
+Part II - English
+Part III - General subjects (Maths, Science, Social Science) – (English Medium)
+Part IV - Anyone of the other languages can be studied as an elective subject .
+State Board Syllabus:
+For standard from 6th to 10th, the following syllabus is taught
+Part I - Tamil
+Part II - English
+Part III - General subjects (Maths, Science, Social Science – (Tamil Medium, English Medium and other Language Mediums) .
+Higher Secondary Education:
+In higher secondary schools the scheme of study is as follows:
+Part I Tamil or other language
+Part II English
+Part III In each division three subjects are compulsory and in that division one subject should be taken as elective as fourth subject by each Student .
+Group 1 . Mathematics 2 . Physics 3 . Chemistry 4 . Optional Subject (any one Subject) Biology, Computer Science, Statistics, Bio-Chemistry, English for Communication, Home Science .
+Group 2 1 . Physics 2 . Chemistry 3 . Biology 4 . Optional Subject (any one Subject) Micro-Biology, Bio-Chemistry, Nursing, Nutrition and Dietetics, Computer Science, English for Communication, Home Science .
+Group 2A 1 . Physics 2 . Chemistry 3 . Botany 4 . Zoology .
+Group 3 1 . Accountancy 2 . Commerce 3 . Economics 4 . Optional Subject (any one Subject) Business Mathematics, Computer Science, Statistics, English for Communication, History, Political Science, Ethics and Indian Culture, Advanced Tamil .
+Group 4 1 . History 2 . Economics 3 . Geography 4 . Optional Subject (any one Subject) Political Science, Computer Science, Statistics, English for Communication, Ethics and Indian Culture, Advanced Tamil .
+Vocational subject
+Agriculture
+Engineering
+Accountancy and Commerce
+Home Science
+Tailoring
+Nursing
+All the above subjects are taught through English and Tamil medium .
+Fees collected from students studying in Government and Government aided schools .
+Students studying in Government and Government Aided Schools from standard VI to XII are paying Rs . 33/- to Rs . 103/- as Special fees presently .
+Taking into consideration the welfare of students the Government of Tamil Nadu has cancelled this special fees to give free education to all the students from the year 2008-2009 .
+There is no need to produce any educational certificates for children of refugees from Sri Lanka for admission into Schools .
+They can be admitted in Schools on the basis of age and merit for standard VI . The concerned Headmaster can give permission and admit the child .
+For standards VII and VIII permission should be obtained from the inspecting Officer of the concerned School .
+Issue of Migration Certificate .
+Director of Government Examination issues migration Certificate to those who want to continue their higher Education in other State after completing the Secondary School Leaving Examination / Higher Secondary Examination .
+Concessions to three students who secure first ranks at the state level and district level in the secondary school leaving examination and higher secondary examination . This scheme was announced by the Honorable Chief Minister of Tamil Nadu in 1996 .
+At that time , the expenditure towards pursuing higher education was met by Government for students securing ranks in Standards X and XII at the State Level only .
+This Scheme has also been extended to the District Level from the year 1997-98 and orders have been issued to this effect .
+Application should be submitted to the Director of School Education with recommendation from District Educational Officer / Chief Educational Officer .
+As for Private Schools if the above requirements are fulfilled permission will be accorded to function as Higher Secondary Schools without financial aid .
+Recognition alone will be granted .
+DIRECTORATE OF MATRICULATION SCHOOLS
+The Directorate of Matriculation Schools aims at offering quality English Medium education for school age children through recognised Matriculation/ Matriculation Higher Secondary Schools .
+Admission of Students
+The children are admitted in Matric Schools as per the following procedure
+Direct Admission
+Admission through Transfer Certificate
+Private Study Admission
+Parents working in Government/Quasi Government organisations, in the event of transfer, can admit their children in the schools in their new place of residence by producing the transfer certificate issued by the school in which their children last studied .
+This can be done by the Headmaster of the school concerned and no order is required from higher authorities for these cases .
+In case of transfer from State Board Schools to Matriculation Schools or from Matriculation Schools to other type of schools, the transfer certificate should be countersigned by the concerned inspecting officers .
+Syllabus
+From LKG to X Standard, Matriculation Syllabus is followed and for XI and XII Standards, the State Board Syllabus is followed
+Matriculation Curriculum
+Part I - Tamil/mother tongue
+Part II - English
+General - Mathematics, Science, Social Science
+Part I Tamil [In 2008-09 compulsory for Stds . I –III]
+Part II English [Compulsory]
+Part III Other Subjects [science, Maths, Social Studies etc .
+Part IV Those do not have Tamil and English as Mother Tongue may study their Mother Tongue as Optional Subject
+Fees
+For opening of Matriculation School Rs . 10,000/-
+For Temporary Recognition once in three years Rs . 1,000/-
+Inspection Fee for Matriculation Fees Rs . 2,500/-
+Inspection Fee for Matriculation Higher Sec School Rs . 5,000/-
+Upgradation of Matriculation School to Matriculation Hr Sec School Rs . 10,000/-
+Endowment [Should be created in the name of the school for a minimum period of 7 years in a nationalized bank] Rs . 2,00,000
+Upgrading of Matriculation, School [should be deposited in the bank in the name of the school in addition to Endowment] Rs . 25,000
+An amount equivalent to one month's salary of teachers should be deposited as corpus fund in the name of the school in a bank .
+For opening of new school in rural areas, there should be a distance of at least 1 km . from the existing school in that area .
+For opening of schools, the application form prescribed in the Code of Regulations for Matriculation Schools can be used .
+All proposals for opening and Temporary Recognition should be forwarded to the Director of Matriculation Schools through the Inspector of Matriculation Schools concerned .
+Temporary Recognition should be applied for within 3 months from the receipt of opening permission .
+Permission will be granted for opening of Standards I to VI and permission will be accorded to additional standards on the basis of eligibility .
+For granting opening permission/recognition to Matriculation Schools, such schools should have the following minimum infrastructure facilities:
+Land
+Corporation 6 Grounds
+District Headquarters 8 Grounds
+Municipality 10Grounds
+Township 1Acre
+Rural Village/Panchayat 3 Acres
+For benefit of school the land should be registered for 30 years lease or owned in the name of school .
+Building
+Adequate building facilities should be provided .
+In case of ownership (or) on lease the agreement should be made for a minimum period of 30 years .
+License should be obtained for public usage .
+Classroom
+A minimum of 9 to 10 sq . ft . per student should be available .
+Library
+Library should have dailies, periodicals, books, maps, atlas, models, teaching-learning materials, audio-video equipments .
+In case of Matriculation schools there should be at least 1500 books and in case of Matriculation Hr Sec Schools 3000 books should be available in the library .
+Laboratory
+For Matriculation schools laboratory facilities for general science studies should be available .
+For Hr . Sec Schools separate laboratories for Physics, Chemistry and Biology should be available .
+Full-fledged Computer Laboratory should be available .
+Playground
+Adequate play area should be provided in the school premises .
+General
+Adequate drinking water and toilet facilities should be provided .
+Qualified teachers should be appointed
+There should be an agreement with the management and teachers .
+Using of Cell Phones is prohibited in the school campus . (G . O . Ms . No 28 dated 25-10-2007)
+Sale of unhygienic food should be avoided in school campus .
+For the children of Sri Lankan repatriates, no previous educational certificate is required .
+They will be enrolled in the eligible standards according to their age .
+The Principal of the school concerned may admit students in VI Standard .
+For admitting students in VII and VIII Standards, necessary permission has to be obtained from the Inspecting Officers .
+DIRECTORATE OF TEACHER EDUCATION, RESEARCH AND TRAINING
+Directorate of Teacher Education, Research and Training plays a vital role in realizing the objectives of providing quality Elementary Education .
+DEPARTMENT OF GOVERNMENT EXAMINATIONS
+Main objective of the Department of Government Examination is the assessment of Scholastic attainment of academic students and skilled attainments by conducting Public Examinations and talent search examinations and releasing of results in time, and issuing certificates therefor under the authority of Government of Tamil Nadu .
+Every year under the academic stream of 10 year pattern SSLC / OSLC / Matriculation, Anglo Indian Public Examinations and Higher secondary Examination for the 12th Standard are the main examinations conducted by this Department .
+From the year 2002, onwards a special supplementary examination is being conducted in the month of June / July for the benefit of those students who have failed in one or three subjects in Higher Secondary, S . S . L . C . / Matriculation / Anglo Indian Examinations held in the month of March / April and the result of which will be released in July, so that the Candidates can pursue their higher studies immediately without wasting a year .
+There are 33 types of examinations conducted and results are being published in time by this department including the above important public examinations every year .
+In addition to the conduct of public examinations and publishing their results the schemes related to Examinations are also implemented by this Department of Directorate of Government Examinations as detailed below .
+TEACHERS RECRUITMENT BOARD
+The Teachers Recruitment Board has been constituted as an institution with the objective of selecting Teachers with good ability and aptitude for Government run Schools in 1987 .
+The vacancy position will be published in the daily News Papers after getting the approximate vacancy status from the concerned appointing authority .
+The Board is recruiting candidates through various means viz . ,Getting list from the Employment Exchange based on registration seniority, Conducting certificate verification followed by interview for Government Arts & Science Colleges, Open Written Examination and certificate verification for Engineering Colleges with a view to usher in transparency and fairness in recruitment .
+So far, nearly 66,000 candidates in various categories have been recruited by the Teachers Recruitment Board from inception .
+The details of vacancies, prospectus, schedules of selection, marks obtained by the candidates in the written examination and the final selection lists etc . are released in the notice board and also in the website of Teachers Recruitment Board http://trb . tn . nic . in/, enabling the public to know the various stages of the recruitment process .
+Teachers Recruitment Board also maintains an interactive website where up-to-date information is displayed for the benefit of the public .
+The entire system of recruitment is open and transparent .
+DIRECTORTATE OF PUBLIC LIBRARIES
+Aim of the Public Libraries Department
+The aim of the Public Libraires Department is to develop enroll all educated persons as Members of the library and to encourage them for utilising the services of this Department .
+The other activities of this Department are to provide facilities in the Library, stock books useful for variety of readers, opening of libraries with the co-operation of the public, etc . ,
+THANGAM THENNARASU, Minister for School Education
+STATIONERY AND PRINTING DEPARTMENT
+CITIZEN'S CHARTER
+The Stationery and Printing Department at No . 110, Anna Salai, Chennai-2 is functioning under the control of a Director from the I . A . S . Cadre .
+This Directorate has over all control on the following Press Units:--
+Government Central Press, Chennai-79 .
+Government Branch Press at High Court Buildings, Chennai-104
+Government Branch Press, Madras High Court Bench at Madurai .
+Branch Presses at Pudukkottai, Trichy, Vridhachalam, Salem and Madurai .
+Government Publication Wing at 112, Anna Salai, Chennai-2 and Sales Sub-Depot in the Government Branch Press, High Court, Chennai-104 .
+Government Stationery Stores, Chennai-1 .
+Activities of the Department
+Forms and Registers
+Debates of Legislative Assembly
+Reports of Committees
+Budget Documents
+Confidential Documents
+Handbooks of various department
+Weekly Gazettes
+TNPSC Bulletin
+Services connected with Public
+The details of officer's appointed as Public information Officer /Appellate authority in the Stationery and Printing Department are given in Annexure- I .
+On request from the Public, notification regarding change of name, normal or due to change of religion, etc . , are published in the Tamil Nadu Government Gazette .
+A sum of Rupees 415/- is collected (including postal charges) for this .
+Now change of name in Tamil is also published as per the order of the Government with a fee of Rs . 50/- + Rs . 65 as Postal charges is collected (excluding postal charges) (Procedures are given in Annexure-II) .
+Public Interest Notification like Land Acquisition Notification, Orders of Industrial Tribunal, etc . , are Published in the Tamil Nadu Government Gazette (Procedure for subscribing to Tamil Nadu Government Gazette are given in Annexure-III) .
+Sales Wing for Government Publications is functioning at 112, Anna Salai, Chennai-2 . Tamil Nadu Government Gazette, Tamil Nadu Public Service Commission Bulletins, District Census Handbook, Rules, Codes, Manuals, etc . , are sold to public (Procedures are given in Annexure-IV) .
+The details of Officers appointed as Public Information Officer / Appellate authority in the Stationery and Printing Department is given in Annexure- V .
+This Website has been launched on 20-11-08 wherein Public can view the services rendered by this Department .
+On every Wednesday the latest Gazette is updated in the Website .
+The application form for Change of name normal or due to change of religion can be downloaded from this website .
+Regarding any further clarification address to
+ANNEXURE - II
+Change of Name normal or due to change of religion .
+Address for reference
+The Assistant Director
+Forms are supplied free of cost .
+The person who remits the correct amount as specified in the format will be supplied to his address with five copies of the part of the Gazette wherein the change of name has been published .
+For obtaining further copies, the Assistant Director, Publication Depot, Chennai-2 may be contacted .
+Note: Gazettes are retained for a period of one year only for sales .
+Hence, people are requested to get the required number of copies as soon as they are published .
+Payment of Charges for Notification
+Payment towards advertisement charges as specified on the rear side of the application form may be remitted at the cash counter at the Office of the Assistant Director (Publication), Directorate of Stationery and Printing, 112, Anna Salai, Chennai-2 on any working day between 10 . 00 a . m . to 1 . 30 p . m . and 2 . 00 p . m . to 3 . 00 p . m . and obtain the receipt for the same .
+The amount may also be remitted in the form of a crossed Demand Draft drawn in favour of the Assistant Director (Publication), Directorate of Stationery and Printing, 112, Anna Salai,Chennai-2 .
+Working days Monday to Friday
+The Assistant Director (Publication),112, Anna Salai, Chennai-2 . While Contacting in this connection please mention the correct address, Cash receipt number or Demand Draft Number and date . Phone No . 044-2852 0038, 2852 0039 2852 0040, 2852 0041 Ext-51 2854 4412, 2854 4413
+Aim
+On account of the complaints received from the public in receiving the application forms and thereafter in remitting the advertisement charges, delay in getting the publication and as well as published copies, the issue of forms and receipt of advertisement charges was brought under the direct control of Director of Stationery and Printing, 110, Anna Salai, Chennai-2 . The applications received from Monday to Friday are being published in the next Wednesday itself without omission and error as a motto to serve better to public .
+ANNEXURE - III
+Supply of Tamil Nadu Government Gazette
+Officer to be contacted
+The Works Manager,Government Central Press, Vallalar Nagar, Chennai-79 . Phone Nos . 044-25202227, 25202228,25202229
+List of subjects published in the Gazette
+It serves as a bridge between the Government and the public Notifications and orders of interest to the public, land acquisition notification, industrial tribunal awards, orders on levying/revision of taxes, orders of Social Welfare Schemes, etc . , are published in the Gazette .
+Details of parts and sections of Gazette:--
+Part I
+Notification or orders issued by Secretariat Departments regarding Promotion and dismissal of All India Services Condolense, appointment of Magistrates, Notifications regarding, Portfolios Change among the Honourable Ministers .
+Exemption from tax, Indian Stamp Act, Code of Criminal Procedure – Traffic Points of Police Station, Industrial disputes, Tamil Nadu Protection of Interests of Depositors, Tamil Nadu Chief Minister’s Award Police Department – Tamil Nadu Forest Act, Indian Christian Marriages Act, Tamil Nadu Town and Country Planning Act Variation of Master plan, Official Secrets Act, Indian Made Foreign Spirits Manufacturer Rules, Land Acquisition Act, Tamil Nadu University Act, Tamil Nadu Pollution Control Act .
+General Statutory Rules, Notifications, Orders, Regulations, etc . , issued by the Secretariat Departments, e . g . , Amendments to Chennai Pharmacy Council Rules .
+Services Rules including Ad hoc rules and regulations and notifications issued under the provisions of the Constitution of India, e . g . , Amendments to special rules for state and subordinate services .
+Statutory Notification and Orders issued by the Heads of Departments .
+Tamil Nadu Bills .
+Tamil Nadu Acts and Ordinances .
+Central Bills .
+Central Acts and Ordinances .
+Notification of Public (Elections) Department of Government of Tamil Nadu .
+Election Notifications by Heads of Departments .
+Decision of the Governor of Tamil Nadu under Article 192 of the Constitution of India in regard to question of disqualification of member of the Legislature .
+Notification of the Election Commission of India .
+Notifications issued by Heads of Departments, which are of interest to the public .
+Tamil Nadu Electricity Board – University Authorities Reports .
+Change of Name both (Tamil & English) by individuals, Advertisements by Private individuals and private institutions, Notifications under Company Law .
+Land Reforms :
+Details of Subscription
+The Subscription for the supply of full Gazette or for requisite parts/sections of the Gazette is accepted .
+The subscription is accepted for a period of 6 months and more .
+The period of subscription will commence from the first day of next month succeeding the payment of subscription .
+Procedure to get copy of particular Gazette
+People desirous of getting any particular Gazette may contact the Assistant Director (Publication), Government Publication Depot, 112, Anna Salai, Chennai-2 .
+Note: Gazette copies are not retained for sale for more than one year .
+Hence, people are kindly requested to obtain the copy immediately after publication to avoid disappointment and inconvenience .
+For any suggestion/complaints
+Feel free to write to the Works Manager,Government Central Press, Vallalar Nagar, Chennai-79 . Phone No . 044 - 2520 2227, 2520 2228, 2520 2229
+ANNEXURE - IV
+Sales of Tamil Nadu Government Gazette Publication, etc .
+Sales Depot Address
+Government Publication Sales Wing, 112, Anna Salai, Chennai-2 .
+Government Publication Sub-Sales Depot, Government Branch Press, High Court Buildings, Chennai-104 .
+The list of Publication for sale in the depot, at the period of retention for sales are given in the following table:
+Syllabus for Government Examinations, Gazettes, District Census Handbook, Statistical Handbook, etc .
+10 Years or release of new books whichever is latest .
+Tamil Nadu Government Orders (English and Tamil) Manuals, Revenue Standing Orders . 7 Years .
+Miscellaneous Publications . 5 Years .
+Budget Publications,Handbook on Five Year Plan, Indian Law Reports (Chennai) . 3 Years .
+Citizens Charter
+Tamil Nadu Magnesite Limited Salem - 636 302
+TAMILNADU MAGNESITE LIMITED (TANMAG) a wholly owned Govt . of TamilNadu Undertaking was formed on 17th January,1979 under the Companies Act, 1956 to optimise Mining and Processing of rare mineral - "MAGNESITE" by improving the quality to international standards .
+MAGNESITE AND ITS USES:
+Magnesite is a Carbonate of Magnesium (MgC03) .
+Raw Magnesite as such is not used in any industry except in Chemical Industry for the manufacture of Sulphates (Epsam Salt) .
+A Small quantity of pure magnesite free from Iron is used in the glass industry .
+Magnesite after dead-burning is an ideal Mineral for manufacture of Super Duty Basic Refractory Bricks largely used in the Steel Industry .
+Lightly Calcined Magnesite (LCM) containing 2-10 per cent CO2 called Caustic Magnesite is used for a wide variety of indutsrial application, the most important being in the manufacture of Oxychloride or Sorel Cement, Pulp and Paper processing chemicals, Rayon and in production of Fertiliser and Animal Feed Stuffs .
+Specially prepared light magnesium carbonate is added to Rubber for reinforcing and stiffening .
+It is also used in the manufacture of Magnesium Metals . The grinding stones for rice husk milling is made from emery Caustic-Calcined Magnesia and Magnesium Chloride .
+In addition to above Magnesite is considered to be potential for use in Uranium processing, Water treatment and stack gas scrubbing etc .
+ROLE OF TANMAG
+Over the last two decades ' TANMAG ' has grown to be a synonym for magnesite the value mineral which is the backbone of many Iron Industry where high temperature operation is involved .
+The Magnesite Reserves of Salem are famous world over for the crypto crystaline structure and are best suited for refractory bricks production .
+TANMAG - MINES DIVISION
+The Mines presently operated by TANMAG are known as "ARASU MAGNESITE MINES" and are located in the north-eastern portion of the Magnesite bearing area of the Chalk-Hills .
+These deposits are located at the foot of the famous Yercaud Hills and are accessible by the Salem - Yercaud Road .
+The mining area is spread over 578 acres .
+TANMAG do not sell Raw Magnesite to outsiders, as the entire mined minerals are used in TANMAG itself for manufacturing Dead Burnt Magnesite and Calcined Magnesite .
+TANMAG ROTARY KILN DIVISION
+The 100 TPD Rotary Kiln to produce Dead Burnt Magnesite was commissioned during December 1985 .
+The installed capacity is 30,000 tonne per annum of various grades of Dead Burnt Magnesite . The Raw Magnesite is sintered in Rotary Kiln at a high temperature of 1,750 c ensuring proper crystal growth/ periclause formation with best suited Lime / Silica ratio .
+Dead Burnt Magnesite finds application in Refractory Industry for manufacture of Basic Refractory Bricks and manufacture of Ramming Mass, fettling Materials and Magnesite Mortar .
+The major customers of TANMAG for DBM are available in the State of (i) Bihar (ii) Maharastra, (iii ) Andhra Pradesh, (iv ) Orissa, (v) West Bengal and ( vi) Madhya Pradesh .
+TANMAG - SHAFT KILN DIVISION
+The Shaft Kiln Division has five numbers of vertical Shaft Kilns for the manufacture of Caustic Calcined Magnesite which is also known as Lightly Calcined Magnesite .
+The installed capacity for Calcined Magnesite is 19,500 Tons per annum .
+Raw Magnesite is calcined in Shaft Kilns using Furnace Oil as fuel at a temperature in the range of 1,000c to 1,100c to produce Chemically reactive grade known as Caustic Calcined Magnesite .
+This is used for extremely wide range of end uses covering
+Oxychloride Flooring
+Sorel cement for binding abrasives (Grinding Wheel Industry)
+Rayon manufactures, Magnesium Chemicals, Light Basic Magnesium Carbonate
+Animal Feeds
+Ceramics, Paper, Glass, Electrical Insulation
+Boiler Lagging etc .
+The major customers of TANMAG for Calcined Magnesite are available in the State of West Bengal, Bihar, Rajasthan, Madhya Pradesh and Maharastra .
+EXPORT
+TANMAG was a leading Exporter of Caustic Calcined Magnesite to countries like United Kingdom, Holland, Japan, Australia, West Germany and New Zealand and a valuable foreign exchange earner upto 1996-97 .
+Subsequently, due to cheaper prices and liberal credit offered in the international market, the export of Calcined Magnesite has come down drastically and TANMAG is able to export only a minimum quantity of 100 MT per annum to Japan .
+POWERS AT DIFFERENT LEVELS
+In general the affairs of the company are being controlled by the Board of Directors mainly consisting of Government Nominees .
+The Special Secretary , Industries Department, Government of Tamilnadu is the Chairman of the Board and Directors are nominated from various Government Departments .
+The day today affairs and major decisions are taken by the Managing Director, who is normally an I . A . S Officer and exclusively deputed to TANMAG by the Government of Tamilnadu .
+Sufficient administrative and business related powers have been delegated to MD to run the company efficiently .
+Apart from the Registered Office, where the Managing Director's Office is located, there are other Divisions called (i) Mines Division, (ii ) Shaft Kiln Division and (iii)Rotary Kiln Division .
+For the convenience of the functioning of the company Mines Manager, Factory Manager(SKD) and Factory Manager (RKD) are looking after the administrative functions of the above Divisions respectively under the control and guidance of the Managing Director .
+Thus there are proper distribution of powers at different levels and the delegation of power is made in such a way that helps to maintain the smooth functioning of the company .
+REQUIREMENTS FOR THE GRANT OF LICENCE
+As far as Licenses are concerned, TANMAG has to get clearance from various Departments .
+The renewal of Mining Lease, Factories Licenses, etc . are to be obtained from Government after expiry of the stipulated period .
+In order to obtain the above License the Company has to adopt certain procedures and certain basic requirements to be satisfied for the grant/renewal of License as detailed below:-
+PROCEDURE TO BE ADOPTED FOR THE RENEWAL OF MINING LEASE
+For non-forest lands ( Patta, Poramboke, etc . ) the Mining Lease application with required details is to be submitted to the State Government through District Collector/Director of Geology and Mining .
+In respect of lands classified under Reserve Forest category, the Proforma proposals for obtaining clearance under Section 2 of the Forest Conservation Act (1980), it is to be submitted to District Forest Officer .
+After inspection of the area by the DFO, the proposal (with his specific recommendations) will be forwarded to Conservator of Forest - Nodal Officer (CCF, FC Act) - PCCP and State Government (Department of Environment and Forest) and will be sent to Government of India, (Inspector General of Forest) .
+Government of India will direct the Regional Chief Conservator of Forests of the respective regions to inspect the area and forward the proposal with recommendation . Upon receiving the same from RCCF, the Government of India will agree and communicate the clearance under FC Act to the State Government and Lease will be granted by State Government (Department of Environment and Forest) .
+All the queries and enquiries from our customers are promptly replied .
+Converting an enquiries into an order is the aim of the Marketing Department .
+Being a commercial organisation the customers are given due respect and treated in such a manner to build casting business relations with the company .
+Whenever there is any clarification sought for by the customers regarding the material etc . , immediate attention is given to their questions and the same is clarified without any loss of time .
+These correspondences are very much useful to the customers as well as the company .
+We have launched a web-site of the company to let the users know about our company and product range and also to attend the enquiries/querries of the users .
+CONTACT POINTS Name Thiru G . Venugopal, Manager(Pers . & Admn . )
+Address TAMILNADU MAGNESITE LIMITED . , 5/53, Omalur Main Road, Jagir Ammapalayam, SALEM -636 302 . Telephone No :346333 Fax No: 91-0427-346341moving ahead further an independent director neither himself not his relatives may hold or held the position of a key managerial personnel or has been in the employment of the company in the last three preceding financial year immediately preceding financial year in which he is proposed to be appointed.
+Say for example: he is in 15-16 is the financial year.
+In which independent director is proposed to be appointed.
+Then proceeding three financial years that is your 14-15 , 13-14 and 12-13.
+These are the three years in which he should not be engaged with a company as a key managerial personnel or as an employee.
+Similarly, It he has not been an employer or proprietor of or a partner in any of the three financial years immediately preceding financial year.
+In what in a form of auditor of Auditor or company secretaries in practice or cost auditors of the company or its holding subsidiary or associate or any legal or a consulting firm.
+That has or had any transactions with the company its holding subsidiary or associate company amounting to 10% or more of a gross turnover of the such firms.
+So, you can see where Independence is cast upon, and again a pecuniary relationship or a sustaining relationship.
+So, suppose a company or a person who is head of that company secretary’s practice and he has been Company Secretary of a company ,he cannot be appointed as an independent director, because he has drawn pecuniary relationship from the company.
+Similarly, if he is a legal or Consulting firm of that particular company, he cannot be independent director because he has drawn money from those particular company so that is why it is very important and the amount is also mentioned 10% or more of a gross turnover of such firm.
+For example: if a firm has a legal firm, has a gross turnover of Rs.1 lakh rupees and he got around Rs 15,000 rupees from ex-company.
+He cannot be an independent director of an X so that is what is a simple example which I can give as far as this clause is concerned further qualification may be prescribed by Central Government.
+So, this is another prescribed clause wherein Central Government retains the right to provide more stringent conditions or relax the conditions as far as the qualifications of independent directors are concerned .
+Now, they should not hold together with his relative 2% or more of the total voting power of the company.
+So, this relates to the voting power and then he must not be a chief executive director by whatever name called of any non-profit organisation that receives 25% or more of its receipts from the company.
+So, they cannot be a chief executive or a director of a foundation which is opened by a company and they cannot be independent director of that.
+So, this whole exercise which you can see whole pointers aims towards one thing that the person should be really independent.
+Every independent director is required to give a declaration this is at the end.
+Like: there are clauses does not only suffice at the end they have to give a declaration confirming independence at the first board meeting in every financial year or what whenever there is a change in circumstances like for example they have some relative who has an interest in the company.
+They need to disclose this particular fact to the company and further schedule 4 of the Act contains a detailed code of conduct for independent directors.
+Now, it took unusually long for this independent directors because it is a very important point as far as Companies Act is concerned and independent director's appointment, its qualifications, its duties are very important to keep a note off.
+Moving to the other concepts which are there is a concept of interested director in section 182 sub clause 2 of a Companies Act and it says directors are in fiduciary capacity and are under a duty to disclose their interest.
+Now, I will tell you that companies Amendment Bill 2016 has recommended for scrapping this particular definition because of its absolute nature because it does not there is no necessity.
+It is used only two times in the act and that is why they say that this needs to be scrapped.
+We will see what happens to that but again the concept as a concept interested director is already evident into the fiduciary duties of of a Now, first directors as the name suggests these are the directors who are appointed for the first time or you read section 7 of the Companies Act, which talks about memorandum of association.
+So, whenever a company is born at that point of time there will be some people who are named as directors in the articles of the company and these are the first directors.
+If they are not named in the articles of the company, the subscribers to the memorandum whose ever is name would be deemed to be the first directors until in the first General Meeting Directors are appointed , these are first directors.
+There is a concept of resident directors which has been introduced under the Companies Act, 2013 and this is a very interesting and important concept wherein it says that every company which requires at least one director who has stayed in India for total period of not less than 182 days in the previous calendar year that is section 149(3) of Companies Act.
+Idea for this is that there should not be companies are fly-by-night and they go away from our country without our knowledge and there should be somebody in India to catch hold off and that is where we talk about 182 days of Residence .
+So, this concept is of resident director.
+Then, there is a concept of Nominee director.
+Now, Nominee director who represents the interest of the appointer point which may be any financial institution, any government or any other person, say for example representing lending Institutions or banks or small shareholder.
+So, this appointment of a nominee director can be by way of a me a provision of law.
+As it happens in case of small shareholders will see small shareholders.
+We will see small shareholders directors in a short while or by way of any agreement.
+It is good governance practice to have nominee directors and nominee director is appointed under section 161 subclass 3.
+Now, small shareholders directors.
+This is a new thing which has been introduced under Companies Act, 2013 and if we see this is a director who is elected by 1000 small shareholders or one tenth of the total number of such shareholders and represent; this is small shareholders.
+Now, you people have a question that what is a small shareholder?Small shareholder has been defined and it means a shareholder shares of a nominal value of not more than 20,000 rupees or such other sum as may be prescribed and for this you need to refer to rule 7 of companies appointment and qualification of directors rules 2014 , so that talks about small shareholders directors.
+Now, there is a concept of additional director.
+Now, the name is additional director, so he is in addition to director and this type of director is basically appointed by the board of directors by virtue of power.
+They have under articles of association at any time in between the year until the next General Meeting or last date on which the Annual General Meeting should have been held.
+So basically, suppose the Annual General Meeting is held on January and sometime in September the required that there is a requirement of one more director or somebody has died in between, so they can appoint an additional director to meet the quorum and that will be an additional director until the next Annual General Meeting wherein he can be ratified as the director there.
+But again, qualification is there, somebody cannot be appointed as additional director if he has been failed to be appointed as a General Director in a General Meeting previously .
+So, he cannot be appointed by the back route by board of directors.
+So, this is additional director there is a concept of alternate director.
+Now, this alternate director as the name suggest is a type of director who is in alternate position of another director and this is happens in Companies Act only when there is a absence of that particular director for a period not less than 3 months from India.
+So, if he is less than 3 months of India then he cannot be appointed and by that director and he is authorised by articles of association and by resolution passed by company in General Meeting.
+So, appointment of dead alternate director is subject to some conditions and these conditions are he must not be holding any other alternate directorship.
+He is not appointed as alternate to end independent director, so there cannot be an alternative to independent director because he has to be independent and he is qualified to be appointed as independent director under the provisions of the act.
+So, for an alternate director all qualifications of an independent director applies but he is not a substitute to independent directors.
+It seems quite interesting and he shall not hold office longer than the period permissible for the director whole position he is holding and he shall vacate the office if and when the director in whose place has been appointed returns back to India.
+So, this is; what is the alternate director?Now, let us talk about women directors and this woman director is basically a new addition to the Companies Act, 2013 and they have introduced this clause wherein they say that the following categories of companies are required to appoint at least one woman director in their Board.
+So, this is a very important clause and this contributes to a lot of things and division of women empowerment.
+To summarise, we have talked about different terms of different types of directors and we have actually dealt with the different concepts; like: women directors, resident directors, non executive directors, executive directors and key managerial personnel, whole time director.
+So, this gives us in understanding of different types of directors and these types of directors basically are acting in the company on different fronts and they are contributing towards the Corporate Governance and this is where we are in need of these different terminologies under companies act and that is what is different terminologies.
+Thank you.
+Welcome to week one of MOOCs Corporate law course.
+In this week, we will discuss about business organizations, corporate personality and the registration of companies.
+So there are three models that will be covered in this week.
+Module 1 will deal with different kinds of business organizations.
+We will discuss about sole proprietorship, Hindu undivided family, cooperative societies, partnerships and the company and then we will come to the conclusion that why it is advisable to have a company form of organization for doing the business.
+So we will discuss about characteristics of corporate personality, advantages and disadvantages of corporate personality.
+After that we will come to the second module and in the second module, we will discuss about registration and incorporation of companies.
+So what are the formalities of the Companies Act 2013 for registration of companies? And what are the documents that are required to be prepared for registering a company.
+Now before the incorporation there is a concept of pre-incorporation contract, so that portion will be covered in the module number 1.
+In third module, we will discuss about the two important documents of companies incorporation -Memorandum of Association as well as Articles of Association.
+So basically, we will focus on the objects, powers of the companies because these are the two documents that give company itself objects and powers and also deal with the internal administration of the company.
+So here we will also discuss about what is the importance of alteration of memorandum and articles of association and how the companies are internally administered.
+All these three modules will have their own it E-text followed by the video presentation and after that you will have self-assessment exercises and for the ratings will also be given to you in this week .
+Welcome to the Week 2 of MOOCs Corporate law course.
+Now in this week, we will have 3 modules, in which will discuss about the kinds of companies, meetings of companies and other laws which are applicable to companies.
+Each module will have e-text followed by the video and then the self-assessment exercises will be given.
+There will be further readings which every student will be required to go through the readings and update the information.
+Coming to module for which is about kinds of companies.
+In this we will discuss about different kinds of companies like private companies, public companies, Government companies, foreign companies and other new types of companies which are introduced by the Companies Act 2013, like small company and associate company.
+Now we have to understand these companies for the benefit of incorporating them , that when you are doing a business.
+What is the need for the type of company that you have to incorporate? So we will look into the characteristics, benefits and disadvantages of these kinds of companies.
+In the next module we will discuss about meetings of companies.
+The meetings of companies are very important for decision-making.
+So, there will be different types of company meetings, for example Annual General Meeting, Extraordinary General Meeting .
+Then we will have board meetings and then there can be class meetings of the shareholders and creditors.
+So, we will discuss about the details of holding such meetings.
+What are the regulatory requirements of these meetings and what kind of decisions can be taken in this meeting and how these decisions will be taken by passing resolutions of the company in the general meeting.
+The next module will be about different laws which are applicable to the companies.
+Now we know that majorly Companies Act is applicable to the companies but there are other laws which also have in some effect and implications on the companies, for example Banking Regulation Act which deals with banking companies .
+So a company, if it is into banking business will have to look into the compliances of the bank Regulation Act as well as.
+Similarly, there is a SEBI Act 1992 which deals with the securities market.
+So, when the company is issuing securities it has to look into the requirements of SEBI through its regulations.
+Then there is Securities Contract Regulation Act which decides upon the listing and delisting of the securities.
+So, everything related to securities has to be considered while issuing of securities by a company through SCRA Act.
+Similarly we have Foreign Exchange Management Act for the companies which are into off-line transactions and they are involved into foreign exchange.
+They have to look into the requirements of this Act.
+Besides that ,there are some laws for example Insurance Act 1938 which deals with the insurance companies.
+So insurance regulatory requirements have to be compiled from there.
+After that we have Income Tax Act wherein 1961 Act, we have to look into the income tax requirement.
+Then there is LLP act which is Limited Liability Partnership Act which company has to look into, if it wants to convert into LLP.
+LLP wants to convert into a company form of organization.
+Besides that, there are certain Labour Laws which are also applicable to companies because companies may be having factories.
+So Labour Laws also have an implication for the companies.
+Then there are Environmental Laws because of the companies are into manufacturing, then there are environmental impacts on which may be hazardous for the environment, on the society as well as on the demographics of the country.
+So all these laws will be considered in overview only ,not in details because we need to only know a brief implication of this but not more than that.
+So this will be the week 2, where you will understand all these requirements relating to company meetings, kinds of companies as well as other laws which are applicable to companies.
+Welcome to the week three of MOOCs Corporate law course.
+Now in this week we will discuss about raising of capital by companies and this will be a little tough week for you because we have to cover 4 modules in this week.
+So module number 7, 8,9, 10 will be covered.
+So the first module will discuss, will cover share capital ,what is the nature of the share capital? How many types of share capital a company can have? And what are the rights and liabilities of the shareholders?The second module will be on alteration of share capital and how a company can reduce or increase its share capital and what will be the implications for a company when it goes for alteration of capital? The third module will be about raising of capital by the company.
+So how many types of issues can be given by the company, So 2013 Act has given lot of information about the raising of capital by companies along with SEBI regulations.
+So we will discuss all these different types of issue of capital and like public issue ,private placement, bonus issue and also the rights issue.
+These are the different types of issues which a company can make.
+So we will discuss about them.
+The last module in this week will be about listing and delisting of companies.
+Now as we have discussed earlier that listing and delisting of securities is done by, is covered by Securities Contract Regulation Act.
+So where a company wants to have listed its securities so it will become a listed company for those securities.
+When a company wants to list its securities what should be the conditions for the listing agreement? How a company has to make the listing agreement with the stock exchange, where it wants to list its securities.
+If later on company want to delist its securities, what will be the regulations that will be applicable to delisting of securities? So we will focus on the Companies Act.
+We will also focus on SEBI regulations relating to listing and delisting of securities as well as substantive provisions of Securities Contracts Regulation Act.
+All four modules will have their e-text video presentations, followed by the sell-assessment exercises and further readings will also given to you.
+Welcome to the week 4 of MOOCs Corporate law course.
+In the last week we had discussed about raising of capital by companies, where we discussed that what is share capital, what is the type of share capital that can be raised by a company and we also discussed about alteration of capital.
+We discussed about ,how the companies and what are the types of issues that companies can make for raising finance from the public and we also discussed about listing and delisting of securities.
+In continuation of week there, now week 4 will have SEBI regulations which are issue of Capital and Disclosure Requirements Regulations of 2009.
+Now in these regulations we will discuss about, how a company can go ahead with issue of securities, what are the different types of issues that can be raised by the company? What are the different definitions which a person should know and the concepts which are related to issue of securities, which a company should know before it ventures into issue of securities? For example the definition of promoter, who is promoter of company? What is promoter contribution? What is promoter’s group? What are the different types of issues, preferential issue, bonus issue? Then how the company can go ahead with the finding out different type of investors? For example, retail investors, non-institutional investors, Qualified institutional buyer.
+What is qualified institutional placement? What is institutional placement? All these definitions and the terms will be discussed in this module.
+In fact, there are two modules which will be dealing with these regulations.
+Module number 11 and 12 will deal with these regulations.
+So there will be discussion on the definitions followed by the concept clarity, for example, what is ASBA? This concept is very important for students to understand .
+What is dematerialization of securities? Then we will also understand that, if a company goes ahead with public issue, then what are the different kinds of general conditions that the company has to follow? What are the special conditions that the company has to follow ,if the company wants to go ahead with issue of depository receipts? What is the procedure that he has to be followed? So these two modules, module 11 and 12 will deal with SEBI, ICDR regulations.
+The next module is on insider trading and fraudulent and unfair trade practices relating to securities.
+So insider-trading regulations, we had earlier regulations of 1992.
+Then we had a repeal of those regulations and we had 2015 regulation.
+So, what has been the difference between these two regulations and what was the necessity for having the new regulations relating to insider- trading?That will be dealt in this module and we will also discuss about the fraudulent and unfair trade practices which are related to dealings with securities.
+So you will that these two weeks, last two weeks and this coming week has been more towards the financial, towards the raising of funds by the companies.
+Welcome to week five of MOOCs Corporate law.
+In this week we will be discussing two very important topics which are related to companies.
+The topics are borrowings and investments by companies.
+So the module number 14 and 15 will be dealt in this module.
+So this will be a little easy week for you because now we have only 2 modules but the topics are really very important.
+In the first module, we will discuss about borrowings by companies, so what are the different kinds of borrowings that can be done by a company? What are regular borrowings? What are the irregular borrowings? What is the procedure that has to be followed by a company? What type of security has to be given? Whether a company has to create charges on different type of borrowings and what are the different types of debentures that can be issued by a company? This will be the discussion in the first module.
+The second part of the first module will deal with investment by companies.
+In case of Companies Act 2013, major changes taken, have been brought in by the act when it comes to inter corporate loans and investments.
+So there are requirement of investment companies, layers of investment companies.
+So all these important aspects relating to investment by companies will be discussed in this module.
+The next module is about FDI in Indian companies.
+Foreign direct investment has been a talk of the day for last two years especially when we are talking about more foreign direct investment in Indian companies.
+So we will discuss about the different sectors.
+What is the requirement for different sectors?Up to which percentage there can be foreign direct investment in any Indian company and what will be the implication of such kind of investment in the company? And then in this module we will also try to understand, what is the effect of foreign direct investment on the economic development of a company.
+So, all this debate which has been going on for last 3- 4 years regarding the foreign direct investment that will be covered.
+And what are the policy changes that have been brought in by the new government.
+These will be covered in this module.
+So the models will have the e-text, video as well as the self assessment.
+Welcome to week 6 of a MOOCs corporate law course.
+In this week we will cover something about the governance structure of companies and three modules will be covered.
+The module number will be 16, 17 and 18 and module 16 will deal with the governance structure of companies so who are the stakeholders in the company? What is the role of the shareholders and other stakeholders? What is the difference between ownership and management of the company? How the Board of Directors, they get responsible for managing affairs of the company?So all this in brief will be discussed in the governance structure of the companies.
+Second module will be on the directors, so what is the role and position of directors in the company? How they are appointed? What is their qualification? What kinds of powers are given to them by the Companies Act? And all other common law principles which are related to duties of directors these will be discussed.
+The next module will be on types of directors
+so as we know that Companies Act 2013 has streamlined certain provisions relating to the directors in the companies.
+So what are the different types of directors? Who are the key managerial personnel of a company? So these things will be discussed.
+Because we do not have any information as to given in the law that who are executive or non-executive directors, so will have a brief understanding about these two types of directors.
+Then we'll go into the managing director, whole time directors, the managers of the company, what are their roles and responsibilities? We will also look into the other, a new terminology that has been used by the Companies Act; for example, Chief Executive Officer, CFO.
+All these words, terminologies will also be discussed in this module.
+And we will also discuss about the whether there are provision of shadow directors still exists under the Companies Act and who will be the, what will be the de jure or de facto appointment of directors.
+Welcome to week 7 of Corporate Law MOOCs course and we will continue in this week with the topic of corporate management and governance that we started in the last week.
+We had part one discussed in the last week where we discussed about the governance structure of companies, directors, their position, qualification, roles, appointment and also the different types of directors and key managerial personnel in the companies.
+Continuing with this theme in this week also will have three modules, module number 19, 20 and 21 and module number 19 will deal with corporate governance in Indian companies.
+We are very fascinated by the term corporate governance and everybody you can see that they are talking about corporate governance.
+So we will try to understand what is corporate governance in Indian companies?We’ll have a brief history of the development of corporate governance and recently, not recently exactly in 2008 we had the case of Satyam also which again highlighted the issue of problems relating to corporate governance of Indian companies.
+So in this module will discuss about the corporate governance in Indian companies.
+The next module will be on corporate social responsibility.
+Although it's not a new topic for us to be discussed in this course but since 2013 Act has brought a necessary condition on certain companies to have corporate social responsibility spending, so it's important for us to understand that what is this requirement, why there is a need for this requirement and how the company should have now a CSR policy for them? They have to form a committee for this purpose and they have to report to the shareholders about their CSR spending.
+And if they are not able to spend why they were not able to spend that?
+So that information be discussing in this module and will take certain examples of Indian companies.
+The next module is very important which is related to promoters.
+What is the role of promoters companies especially in Indian companies? What is their position? What are their rights and what are their liabilities? In Indian companies, the position of promoters is very important.
+The role of promoters is very important because of the closely held companies or we can say, most of the companies they are families run businesses.
+So in this case in such type of companies, what is the position of a promoter and what changes have been brought about by 2013 Companies Act we will have a look at that because in 2013 Act we had at the first-ever definition of promoters given by any companies act in India.
+So we’ll continue with this discussion and the next week, week 8 will be revision week for you, so I hope that you will continue reading throughout the week and in the next week you will refresh your knowledge through the revision.
+Welcome to week 8 of MOOCs corporate law course.
+As you know that this is a revision week so you don't have to read anything new but you have to simply revise whatever was discussed earlier in the last 7 weeks.
+So if you remember in last seven weeks we have covered 21 modules where we started discussion with the type of Business and business organisations, corporate personality then we discussed about the different types of companies, their meetings, what other laws are applicable to companies and also we discussed how the companies raise their capital.
+We discussed about the corporate management and governance also in two parts.
+So lot of information about the companies has been already discussed with you and must have gone through the text as well as the video presentations and this is a revision week.
+So that means that you should sincerely once again revise the portion that has already been discussed with you, relook at the videos, look at the assessment.
+Do the assessment once again and certain assignment will also be given to you in this week.
+Do the assignment religiously and work ahead course because this course will from the next week onwards will have more modules coming up so the work will keep on pilik on your shoulders.
+So you should not waste time.
+You revise and if you have any questions you can write to me on the discussion forum and certainly we will be in a position to take care of 21 modules in this week.
+Welcome to week 9 after the revision 
+I hope that you have refreshed your knowledge about the Companies Act.
+So far whatever we had discussed in last 7 weeks and now in this week will discuss certain financial information about the company.
+So this week will be about accounts of companies.
+So we have two modules in this week, module number 22 and 23.
+So module number 22 will deal with dividends and accounts of companies.
+So we will discuss how the accounts of companies have to be prepared? How the financial statements have to be prepared? And if the company has to declare dividend what is the formality that the company has to comply with? What other regulatory features for that? All this will be discussed, then how many types of dividends can be declared by the company? What is the liability of a company when it declares dividend? How the depreciation has to be calculated? So these are few things which will discuss in the first module.
+In the second module we will discuss about directors responsibility statement when directors or the board of the directors of the company they are laying reports before the financial statements before the company.
+Now a lot of responsibility has been casted on directors when it comes to laying of financial statements.
+So along with the financial statements and auditor’s report there has to be now a director’s responsibility statement given.
+Certain features have been added, for example, what are internal financial controls that the company has adopted? What is the risk management policy of the company? Everything has to be discussed.
+So the advantage of this week’s module is modules is that that these modules are written by a professor who teaches into financial management institution only.
+So you will hear from the person who deals with this on day-to -day basis and for being a law graduate it is important for you to to have some information which comes from the person who is dealing into the into practically with this statement.
+So he has taken examples of the companies that how companies make these statements and how the accounts are prepared.
+So I hopeful that you will learn a lot during this week and I will again meet you in the next week.
+Welcome to week 10 of corporate law MOOCs course.
+In the last week we discussed about accounts of companies and in this present week will discuss about audit of companies and there will be two modules in this week.
+First module with audit of companies and second module will deal with auditors, their duties and liabilities.
+Now laying of accounts before the shareholders is important work which has been assigned to the directors by the Companies Act that we discussed in the last module.
+Now how these accounts have to be audited by the auditors that is also provided by the Companies Act.
+So we will understand the concept of audit.
+How audits is is done? What is the requirement of audit, why it is required to be , why accounts are required to be audited? And are there any special kinds of audits that are required to be done in any company? So these are the basic things that will discuss in the first module.
+And this module is again written by the professor who teaches in the financial management institute, so I would request you to look into his content and also very carefully listen to his presentation to understand what a .
+management professor has to say on the audit of companies.
+And he has also taken examples from the companies.
+The next module is on the auditors, so here we will look about the statutory provisions.
+How the auditors are appointed? What are the qualifications? And we will also look into their responsibilities and liabilities which have been fixed on them by the Companies Act as well as we will also have a look on the common law principles which fix liabilities on auditors.
+Now the topic of auditors has been since 2013 Act, a lot has been into discussion a lot because there was initial thought that Companies Act wants to done away auditorship but it is not case because we can understand that fixing the liability on auditors does not in any way diminishes their role in the companies.
+So we will try to understand about audit and auditors of the companies in this module and I will meet you again in the next module.
+Welcome to week 11 of MOOCs Corporate Law course and so far we have after the revision of discussed about accounts and audits of companies and the auditors.
+Let us now discuss something other than that which is this week where we will discuss about business rescue proceedings and the compromises that can be done by companies.
+Now, the question arises what is included in business rescue proceedings and the compromises? So, the terms which are used include arrangements, rearrangements, corporate mergers, amalgamations and then the concept of restructuring.
+So, there are three modules in this week, again a lot of work for you.
+So, module number 26, 27 and 28 and we will basically discuss about everything related to restructuring of companies in India.
+So, we will understand these terms which are used in the Companies Act, look at the definition and also we will try to understand the concept of mergers and amalgamations in India.
+In the next module, module number 27 we will basically discuss acquisition of shares and takeovers.
+So, there is a basic difference between amalgamations, mergers and acquisition of shares and here we will also refer to SEBI regulations which are SAST regulations.
+That is Substantial Acquisition of Shares and Takeovers regulations, so we will discuss the provisions of that and we will try to understand the difference between the different terms that we are using under the restructuring of companies in India.
+Now, if we have seen that there are recently last five years especially there are so many mergers and amalgamations taking place in India and it’s within the Indian companies as well as it is offshore mergers are also there.
+Indian companies going offshore and buying stake into foreign companies.
+So, what are these new cases? What is the trend and what are important developments in this area? All this will be discussed in the third module which will be on cases relating to mergers and acquisition.
+So, you will see that in this week you will have a wholesome picture and understanding about mergers and amalgamations in India.
+And we will, in the next week, we will discuss about the adjudicatory machinery in India.
+So, read during this week and will meet next week again.
+Welcome to week twelve of the MOOCs Corporate law course.
+As and when we are progressing with the course you can understand that how much we have covered about the companies and their functioning.
+So, continuing with that this particular week is about the investigation in adjudicatory machinery which is provided by the Companies Act, 2013.
+Now, the question arises what is the need of such kind of machinery? We know that company has to meet its accounts.
+So, how the accounts have to be inspected and how if there is something wrong with the affairs of the company, how the investigation will be done?Who will be the person responsible for carrying out the investigation and who will be the reporting authority for this purpose? So, we have three models in this week first module will deal with inspection and investigation of affairs of companies.
+The second module is about the adjudicatory machinery which is a quasi-judicial system which has been given to us by the Companies Act.
+In 1956 Act we had Company Law Board which is now done away with in the 2013 and we have now National Company Law Tribunal as well as National Company Law Appellate Tribunal.
+So, initially it was difficult for the Companies Act to have inception or the constitution of these tribunals but now it has been done and there was the constitutional debate that was going on for the constitution of these tribunals has been cleared and now we have already incepted or constituted or established National Company Law Tribunal.
+So, the cases which are pending before the Company Law Tribunal will be transferred to the National Company Law Tribunal.
+So, we will understand the need for such kind of a tribunal.
+Who will be the member and the chairperson of these tribunals and what will be the procedure to be followed when any complaint has to be given or the dispute has to be raised before these tribunals? And how the appeal will be sent to the National Company Law Tribunal? The last module on this week will be about the special courts and their establishment and as well as the Constitution and the powers and what will be the jurisdiction of these special courts? we are still waiting for the Inception of such courts but the Companies Act, 2013 has provided that there should be special courts which should streamline the dispute resolution as well as expedite the dispute resolution in the case of companies.
+we are nearing the end course and I hope that you are keeping up the pace of the discussion that is going on.
+Welcome to week 13 of MOOCs corporate law course.
+So far we have discussed lot of information we have taken lot of information about the companies.
+Now, we come to the end where we are discussing about that what are the remedies to the shareholders and other stakeholders of the company? And how the companies can be wound up? So, we have, in this week 2 modules for you.
+First first module will discuss about the remedies to the shareholders and creditors.
+Now, the question arises what kind of remedies are required and why the remedies are required?So, for example, let's take a case that there has been operation of minority shareholders in the company or there has been mismanagement by the directors of the company.
+So, what remedies shareholders will have in such a case Or if there are something wrong with the creditors of the rights of the creditors, then what remedies they will have?So, we will look into the provisions of the Companies Act, 2013 to look into the derivative actions or class-action suits or other types of remedies which are provided to the shareholders and other stakeholders in the company.
+In the next module we will discuss about the winding up of the company that is how to bring an end to the life of the company.
+How the company’s name can be removed from the register of companies and how it can be restored and what are the different types of winding up? What other grounds for winding up? Who can bring the suit for the winding up? Who can initiate the preceding? And if the company starts winding up what will be the distribution of assets?How the assets of the company will be distributed?So, all these provisions will be discussed in this module which will be covered under the week 13 and after this week only one week will be left.
+So, I will meet you on week number fourteenth.
+Welcome to the last week of the course on Corporate Law under the MOOCs course and this is week number 14 and we will be discussing about corporate insolvency and bankruptcy.
+Now, the question arises why there is need to know about the corporate insolvency? When we read everything about the companies it is important for us to understand what is corporate insolvency and what are the laws that deal with corporate insolvency? So, we have two modules in this week.
+First is on corporate insolvency, and second is on bankruptcy code of 2015.
+So, we will have a brief outline about the history of corporate insolvency.
+What were the earlier laws, and what is the recent position, now when a company goes insolvent? So, what is the procedure to be followed and what are the consequences of corporate insolvency? 
+In the second module we will discuss about the bankruptcy code of 2015.
+This is a new addition to the regal and regulatory framework of companies and this is treated to be as one of the landmark developments while doing business in India because now we have a code which deals with the bankruptcy, so people who come to India and the companies which come to India for doing business now they have a peace of mind that there is a method through which if something goes wrong with the company, they can handle under the bankruptcy code.
+So, in this module we will discuss about the total outline of the bankruptcy code.
+So, you see that now we have covered everything in this; the whole 14 weeks you have done the revision for initial weeks also.
+And we have been participating in the discussion forum.
+So, I think that now your knowledge about the subject is up to date
+In the next week I will meet you for the revision.
+So, welcome to week 15 which is a revision week and I can understand that you must be feeling a little relax that now fourteen weeks of too much of studies about the companies must have made you feel tired.
+So, I am happy that you are at the end of this course.
+So, this week I am not going to teach you anything and it will be only the revision and followed by the assessment that I will be providing you and you will have assignments to be done.
+In case you have any problem relating to assignments you can always write to me on the discussion forum and we can resolve your issues.
+Now, those who want to have a credit for this course will have to apply for the examination, you clear the examination and the credit will be granted to you.
+So, I am sure that you must have gone through well with this course and in this week particularly, you will revise all the modules that were taken up after the first week of revision and so, I wish you happy revision week.
+welcome to the summary session of corporate law, MOOCs course.
+For 14 weeks, we have been discussing about different areas relating to companies and it has been a rigorous exercise for the students who have undertaken this course.
+So, I think it's now my duty to summaries what we have done in those 14 weeks and what kind of revision we have done.
+So if you look at the week 1, we discussed about the different types of business organizations.
+How the company should be incorporated? What are the different types of organizations on the basis of which we can decide which type of big business organization suits are needs? What are the advantages of a corporate personality? Then we discussed about different kinds of companies.
+In the week 2, the meetings of the companies and other laws which are applicable to the companies.
+Then in week 3, we discussed about how the companies raise funds and what are the different methods through which the companies can raise funds.
+Week 4 was in continuation of raising of funds by the companies.
+There we discussed about SEBI, ICDR regulations.
+And we discussed that what are the regulatory requirements of SEBI, when a company goes for raising of funds from the public? In the week five we discussed about borrowings and investment by companies.
+And as I told you earlier that, this is a very important module for the companies or the provisions relating to borrowings are very important for the companies because companies are in constant need of funds.
+And how the companies, they make inter corporate investment.
+Lot of changes have been done by the Companies Act that we discussed in this that week.
+Then week 6 was about corporate management and governance.
+Part 1, there we discussed about governance structure of the companies and the role of a directors.
+Week 7 was part 2 of the corporate management and the governance.
+So in 2 weeks, we discussed in a lot about the corporate governance as well as the management.
+Then week 8 was revision where we revised all the things that we had covered in the earlier weeks and I know that students has lot of questions and those questions were I tried to resolve all those issues also.
+Then after that we started with the audit of companies.
+We discussed about accounts of companies, if the companies have to make a dividend ,how they will do it? How they will prepare the accounts of the companies? How the auditing of the companies will be done? What is the relevance of auditing? Who is auditor? How he is appointed? What is his responsibility, liability?Everything we have discussed during the week 9 and 10.
+Then in week 11 when we had very important concept of restructuring of companies in India and we tried to understand what are the different methods of restructuring in India? And why it is required for a company to restructure itself? What is the necessity for a company to go ahead with this and what are the regulatory requirements for that? Then we discuss about the investigation of company’s affairs, adjudicatory machinery which is provided by the Companies Act for resolving disputes of the companies.
+And we also discussed about newly incepted National Company Law Tribunal and the Appellate Tribunal.
+Then in the second last week, we discussed about the shareholders and their remedies in case of operation and mismanagement of the companies and what kind of new remedies are provided to the shareholders by the Companies Act, 2013.
+Then we also discussed about in last week about the corporate insolvency and bankruptcy code and we went with the revision also in the week 15.
+So in all these weeks we have seen that we have dealt comprehensively everything which is important for a student of Corporate Law to know.
+And I hope that you will revise well and you will complete the evaluation and in case you have any issue or any question that you want to raise you can always write on the discussion forum and we will be happy to resolve your issues.
+And I hope that you will prepare well and your feedback will be important to us, so please give us your feedback.
+How do you think that the whether the course could meet your expectations? So, your feedback will be valuable to us.
+I hope that you will do well in the examination and you will also tell your fellow students or your friends that if they are interested in joining the course of corporate law, they have flexibility and a facility under the MOOCs Corporate law course where they are welcome to join.
+What is (are) Adult Primary Liver Cancer ?
+
+Key Points
+- Adult primary liver cancer is a disease in which malignant ( cancer ) cells form in the tissues of the liver    .
+- There are two types of adult primary liver cancer    .
+- Having hepatitis or cirrhosis can affect the risk of adult primary liver cancer    .
+- Signs and symptoms of adult primary liver cancer include a lump or pain on the right side    .
+- Tests that examine the liver and the blood are used to detect ( find ) and diagnose adult primary liver cancer    .
+- Certain factors affect prognosis ( chance of recovery ) and treatment options    .
+Adult primary liver cancer is a disease in which malignant ( cancer ) cells form in the tissues of the liver    .
+The liver is one of the largest organs in the body    .
+It has four lobes and fills the upper right side of the abdomen inside the rib cage    .
+Three of the many important functions of the liver are : - To filter harmful substances from the blood so they can be passed from the body in stools and urine    .
+- To make bile to help digest fat that comes from food    .
+- To store glycogen ( sugar ) , which the body uses for energy    .
+There are two types of adult primary liver cancer    .
+The two types of adult primary liver cancer are : - Hepatocellular carcinoma    .    - Cholangiocarcinoma ( bile duct cancer )    .
+( See the PDQ summary on Bile Duct Cancer Treatment for more information    .    )
+The most common type of adult primary liver cancer is hepatocellular carcinoma    .
+This type of liver cancer is the third leading cause of cancer - related deaths worldwide    .
+This summary is about the treatment of primary liver cancer ( cancer that begins in the liver )    .
+Treatment of cancer that begins in other parts of the body and spreads to the liver is not covered in this summary    .
+Primary liver cancer can occur in both adults and children    .
+However , treatment for children is different than treatment for adults    .
+( See the PDQ summary on Childhood Liver Cancer Treatment for more information    .    )
+Who is at risk for Adult Primary Liver Cancer? ?
+
+Having hepatitis or cirrhosis can affect the risk of adult primary liver cancer    .
+Anything that increases your chance of getting a disease is called a risk factor    .
+Having a risk factor does not mean that you will get cancer ; not having risk factors doesnt mean that you will not get cancer    .
+Talk with your doctor if you think you may be at risk    .
+The following are risk factors for adult primary liver cancer : - Having hepatitis B or hepatitis C   .    Having both hepatitis B and hepatitis C increases the risk even more    .
+- Having cirrhosis , which can be caused by : - hepatitis ( especially hepatitis C ) ; or - drinking large amounts of alcohol for many years or being an alcoholic    .
+- Having metabolic syndrome , a set of conditions that occur together , including extra fat around the abdomen , high blood sugar , high blood pressure , high levels of triglycerides and low levels of high - density lipoproteins in the blood    .
+- Having liver injury that is long - lasting , especially if it leads to cirrhosis    .
+- Having hemochromatosis , a condition in which the body takes up and stores more iron than it needs    .
+The extra iron is stored in the liver , heart , and pancreas - Eating foods tainted with aflatoxin ( poison from a fungus that can grow on foods , such as grains and nuts , that have not been stored properly )    .
+What are the symptoms of Adult Primary Liver Cancer ?
+
+Signs and symptoms of adult primary liver cancer include a lump or pain on the right side    .
+These and other signs and symptoms may be caused by adult primary liver cancer or by other conditions    .
+Check with your doctor if you have any of the following : - A hard lump on the right side just below the rib cage    .
+- Discomfort in the upper abdomen on the right side    .    - A swollen abdomen    .    - Pain near the right shoulder blade or in the back    .
+- Jaundice ( yellowing of the skin and whites of the eyes )    .
+- Easy bruising or bleeding    .
+- Unusual tiredness or weakness    .
+- Nausea and vomiting    .
+- Loss of appetite or feelings of fullness after eating a small meal    .
+- Weight loss for no known reason    .
+- Pale , chalky bowel movements and dark urine    .
+- Fever    .
+How to diagnose Adult Primary Liver Cancer ?
+
+Tests that examine the liver and the blood are used to detect ( find ) and diagnose adult primary liver cancer    .
+The following tests and procedures may be used : - Physical exam and history :
+An exam of the body to check general signs of health , including checking for signs of disease , such as lumps or anything else that seems unusual    .
+A history of the patients health habits and past illnesses and treatments will also be taken    .
+- Serum tumor marker test :
+A procedure in which a sample of blood is examined to measure the amounts of certain substances released into the blood by organs , tissues , or tumor cells in the body    .
+Certain substances are linked to specific types of cancer when found in increased levels in the blood    .
+These are called tumor markers    .
+An increased level of alpha - fetoprotein ( AFP ) in the blood may be a sign of liver cancer    .
+Other cancers and certain noncancerous conditions , including cirrhosis and hepatitis , may also increase AFP levels    .
+Sometimes the AFP level is normal even when there is liver cancer    .
+- Liver function tests :
+A procedure in which a blood sample is checked to measure the amounts of certain substances released into the blood by the liver    .
+A higher than normal amount of a substance can be a sign of liver cancer    .
+- CT scan ( CAT scan ) : A procedure that makes a series of detailed pictures of areas inside the body , such as the abdomen , taken from different angles    .
+The pictures are made by a computer linked to an x-ray machine    .
+A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly    .
+This procedure is also called computed tomography , computerized tomography , or computerized axial tomography    .
+Images may be taken at three different times after the dye is injected , to get the best picture of abnormal areas in the liver    .
+This is called triple - phase CT    .
+A spiral or helical CT scan makes a series of very detailed pictures of areas inside the body using an x-ray machine that scans the body in a spiral path    .
+- MRI ( magnetic resonance imaging ) : A procedure that uses a magnet , radio waves , and a computer to make a series of detailed pictures of areas inside the body , such as the liver    .
+This procedure is also called nuclear magnetic resonance imaging ( NMRI )    .
+To create detailed pictures of blood vessels in and near the liver , dye is injected into a vein    .
+This procedure is called MRA ( magnetic resonance angiography )    .
+Images may be taken at three different times after the dye is injected , to get the best picture of abnormal areas in the liver    .
+This is called triple - phase MRI    .
+- Ultrasound exam :
+A procedure in which high - energy sound waves ( ultrasound ) are bounced off internal tissues or organs and make echoes    .
+The echoes form a picture of body tissues called a sonogram    .
+The picture can be printed to be looked at later    .
+- Biopsy :
+The removal of cells or tissues so they can be viewed under a microscope by a pathologist to check for signs of cancer    .
+Procedures used to collect the sample of cells or tissues include the following : - Fine - needle aspiration biopsy :
+The removal of cells , tissue or fluid using a thin needle    .
+- Core needle biopsy :
+The removal of cells or tissue using a slightly wider needle    .
+- Laparoscopy : A surgical procedure to look at the organs inside the abdomen to check for signs of disease    .
+Small incisions ( cuts ) are made in the wall of the abdomen and a laparoscope ( a thin , lighted tube ) is inserted into one of the incisions    .
+Another instrument is inserted through the same or another incision to remove the tissue samples    .
+A biopsy is not always needed to diagnose adult primary liver cancer    .
+What is the outlook for Adult Primary Liver Cancer ?
+
+Certain factors affect prognosis ( chance of recovery ) and treatment options    .
+The prognosis ( chance of recovery ) and treatment options depend on the following : - The stage of the cancer ( the size of the tumor , whether it affects part or all of the liver , or has spread to other places in the body )    .
+- How well the liver is working    .
+- The patients general health , including whether there is cirrhosis of the liver    .
+What are the stages of Adult Primary Liver Cancer ?
+
+Key Points
+- After adult primary liver cancer has been diagnosed , tests are done to find out if cancer cells have spread within the liver or to other parts of the body    .
+- There are three ways that cancer spreads in the body    .
+- Cancer may spread from where it began to other parts of the body    .
+- The Barcelona Clinic Liver Cancer Staging System may be used to stage adult primary liver cancer    .    - The following groups are used to plan treatment    .
+- BCLC stages 0 , A , and B - BCLC stages C and D
+After adult primary liver cancer has been diagnosed , tests are done to find out if cancer cells have spread within the liver or to other parts of the body    .
+The process used to find out if cancer has spread within the liver or to other parts of the body is called staging    .
+The information gathered from the staging process determines the stage of the disease    .
+It is important to know the stage in order to plan treatment    .
+The following tests and procedures may be used in the staging process : - CT scan ( CAT scan ) :
+A procedure that makes a series of detailed pictures of areas inside the body , such as the chest , abdomen , and pelvis , taken from different angles    .
+The pictures are made by a computer linked to an x-ray machine    .
+A dye may be injected into a vein or swallowed to help the organs or tissues show up more clearly    .
+This procedure is also called computed tomography , computerized tomography , or computerized axial tomography    .
+- MRI ( magnetic resonance imaging ) : A procedure that uses a magnet , radio waves , and a computer to make a series of detailed pictures of areas inside the body    .
+This procedure is also called nuclear magnetic resonance imaging ( NMRI )    .
+- PET scan ( positron emission tomography scan ) : A procedure to find malignant tumor cells in the body    .
+A small amount of radioactive glucose ( sugar ) is injected into a vein    .
+The PET scanner rotates around the body and makes a picture of where glucose is being used in the body    .
+Malignant tumor cells show up brighter in the picture because they are more active and take up more glucose than normal cells do    .
+There are three ways that cancer spreads in the body    .
+Cancer can spread through tissue , the lymph system , and the blood : - Tissue    .
+The cancer spreads from where it began by growing into nearby areas    .
+- Lymph system    .
+The cancer spreads from where it began by getting into the lymph system    .
+The cancer travels through the lymph vessels to other parts of the body    .
+- Blood    .
+The cancer spreads from where it began by getting into the blood    .
+The cancer travels through the blood vessels to other parts of the body    .
+Cancer may spread from where it began to other parts of the body    .
+When cancer spreads to another part of the body , it is called metastasis    .
+Cancer cells break away from where they began ( the primary tumor ) and travel through the lymph system or blood    .
+- Lymph system    .
+The cancer gets into the lymph system , travels through the lymph vessels , and forms a tumor ( metastatic tumor ) in another part of the body    .
+- Blood    .
+The cancer gets into the blood , travels through the blood vessels , and forms a tumor ( metastatic tumor ) in another part of the body    .
+The metastatic tumor is the same type of cancer as the primary tumor    .
+For example , if primary liver cancer spreads to the lung , the cancer cells in the lung are actually liver cancer cells    .
+The disease is metastatic liver cancer , not lung cancer    .
+The Barcelona Clinic Liver Cancer Staging System may be used to stage adult primary liver cancer    .
+There are several staging systems for liver cancer    .
+The Barcelona Clinic Liver Cancer ( BCLC ) Staging System is widely used and is described below    .
+This system is used to predict the patient 's chance of recovery and to plan treatment , based on the following : - Whether the cancer has spread within the liver or to other parts of the body    .
+- How well the liver is working    .
+- The general health and wellness of the patient    .
+- The symptoms caused by the cancer    .
+The BCLC staging system has five stages : - Stage 0 : Very early - Stage A : Early - Stage B : Intermediate - Stage C : Advanced - Stage D : End-stage
+The following groups are used to plan treatment    .
+BCLC stages 0 , A , and B Treatment to cure the cancer is given for BCLC stages 0 , A , and B   .    BCLC stages C and D Treatment to relieve the symptoms caused by liver cancer and improve the patient 's quality of life is given for BCLC stages C and D   .    Treatments are not likely to cure the cancer    .
+what research (or clinical trials) is being done for Adult Primary Liver Cancer ?
+
+New types of treatment are being tested in clinical trials    .
+Information about clinical trials is available from the NCI website    .
+Patients may want to think about taking part in a clinical trial    .
+For some patients , taking part in a clinical trial may be the best treatment choice    .
+Clinical trials are part of the cancer research process    .
+Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment    .
+Many of today 's standard treatments for cancer are based on earlier clinical trials    .
+Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment    .
+Patients who take part in clinical trials also help improve the way cancer will be treated in the future    .
+Even when clinical trials do not lead to effective new treatments , they often answer important questions and help move research forward    .
+Patients can enter clinical trials before , during , or after starting their cancer treatment    .
+Some clinical trials only include patients who have not yet received treatment    .
+Other trials test treatments for patients whose cancer has not gotten better    .
+There are also clinical trials that test new ways to stop cancer from recurring ( coming back ) or reduce the side effects of cancer treatment    .
+Clinical trials are taking place in many parts of the country    .
+See the Treatment Options section that follows for links to current treatment clinical trials    .
+These have been retrieved from NCI 's listing of clinical trials    .
+What are the treatments for Adult Primary Liver Cancer ?
+
+Key Points
+- There are different types of treatment for patients with adult primary liver cancer    .
+- Patients with liver cancer are treated by a team of specialists who are experts in treating liver cancer    .
+- Seven types of standard treatment are used : - Surveillance - Surgery - Liver transplant - Ablation therapy - Embolization therapy - Targeted therapy - Radiation therapy - New types of treatment are being tested in clinical trials    .
+- Patients may want to think about taking part in a clinical trial    .
+- Patients can enter clinical trials before , during , or after starting their cancer treatment    .
+- Follow - up tests may be needed    .
+There are different types of treatment for patients with adult primary liver cancer    .
+Different types of treatments are available for patients with adult primary liver cancer    .
+Some treatments are standard ( the currently used treatment ) , and some are being tested in clinical trials    .
+A treatment clinical trial is a research study meant to help improve current treatments or obtain information on new treatments for patients with cancer    .
+When clinical trials show that a new treatment is better than the standard treatment , the new treatment may become the standard treatment    .
+Patients may want to think about taking part in a clinical trial    .
+Some clinical trials are open only to patients who have not started treatment    .
+Patients with liver cancer are treated by a team of specialists who are experts in treating liver cancer    .
+The patient 's treatment will be overseen by a medical oncologist , a doctor who specializes in treating people with cancer    .
+The medical oncologist may refer the patient to other health professionals who have special training in treating patients with liver cancer    .
+These may include the following specialists : - Hepatologist ( specialist in liver disease )    .
+- Surgical oncologist    .
+- Transplant surgeon    .
+- Radiation oncologist    .
+- Interventional radiologist ( a specialist who diagnoses and treats diseases using imaging and the smallest incisions possible )    .
+- Pathologist    .
+Seven types of standard treatment are used :
+Surveillance Surveillance for lesions smaller than 1 centimeter found during screening    .
+Follow - up every three months is common    .
+Surgery A partial hepatectomy ( surgery to remove the part of the liver where cancer is found ) may be done    .
+A wedge of tissue , an entire lobe , or a larger part of the liver , along with some of the healthy tissue around it is removed    .
+The remaining liver tissue takes over the functions of the liver and may regrow    .
+Liver transplant
+In a liver transplant , the entire liver is removed and replaced with a healthy donated liver    .
+A liver transplant may be done when the disease is in the liver only and a donated liver can be found    .
+If the patient has to wait for a donated liver , other treatment is given as needed    .
+Ablation therapy Ablation therapy removes or destroys tissue    .
+Different types of ablation therapy are used for liver cancer : - Radiofrequency ablation :
+The use of special needles that are inserted directly through the skin or through an incision in the abdomen to reach the tumor    .
+High - energy radio waves heat the needles and tumor which kills cancer cells    .
+- Microwave therapy : A type of treatment in which the tumor is exposed to high temperatures created by microwaves    .
+This can damage and kill cancer cells or make them more sensitive to the effects of radiation and certain anticancer drugs    .
+- Percutaneous ethanol injection : A cancer treatment in which a small needle is used to inject ethanol ( pure alcohol ) directly into a tumor to kill cancer cells    .
+Several treatments may be needed    .
+Usually local anesthesia is used , but if the patient has many tumors in the liver , general anesthesia may be used    .
+- Cryoablation : A treatment that uses an instrument to freeze and destroy cancer cells    .
+This type of treatment is also called cryotherapy and cryosurgery    .
+The doctor may use ultrasound to guide the instrument    .
+- Electroporation therapy : A treatment that sends electrical pulses through an electrode placed in a tumor to kill cancer cells    .
+Electroporation therapy is being studied in clinical trials    .
+Embolization therapy Embolization therapy is the use of substances to block or decrease the flow of blood through the hepatic artery to the tumor    .
+When the tumor does not get the oxygen and nutrients it needs , it will not continue to grow    .
+Embolization therapy is used for patients who cannot have surgery to remove the tumor or ablation therapy and whose tumor has not spread outside the liver    .
+The liver receives blood from the hepatic portal vein and the hepatic artery    .
+Blood that comes into the liver from the hepatic portal vein usually goes to the healthy liver tissue    .
+Blood that comes from the hepatic artery usually goes to the tumor    .
+When the hepatic artery is blocked during embolization therapy , the healthy liver tissue continues to receive blood from the hepatic portal vein    .
+There are two main types of embolization therapy : - Transarterial embolization ( TAE ) : A small incision ( cut ) is made in the inner thigh and a catheter ( thin , flexible tube ) is inserted and threaded up into the hepatic artery    .
+Once the catheter is in place , a substance that blocks the hepatic artery and stops blood flow to the tumor is injected    .
+- Transarterial chemoembolization ( TACE ) :
+This procedure is like TAE except an anticancer drug is also given    .
+The procedure can be done by attaching the anticancer drug to small beads that are injected into the hepatic artery or by injecting the anticancer drug through the catheter into the hepatic artery and then injecting the substance to block the hepatic artery    .
+Most of the anticancer drug is trapped near the tumor and only a small amount of the drug reaches other parts of the body    .
+This type of treatment is also called chemoembolization    .
+Targeted therapy Targeted therapy is a treatment that uses drugs or other substances to identify and attack specific cancer cells without harming normal cells    .
+Adult liver cancer may be treated with a targeted therapy drug that stops cells from dividing and prevents the growth of new blood vessels that tumors need to grow    .
+See Drugs Approved for Liver Cancer for more information    .
+Radiation therapy Radiation therapy is a cancer treatment that uses high - energy x-rays or other types of radiation to kill cancer cells or keep them from growing    .
+There are two types of radiation therapy : - External radiation therapy uses a machine outside the body to send radiation toward the cancer    .
+- एक्सटरनल रेडिएशन थेरेपी में कैंसर की ओर विकिरण भेजने के लिए शरीर के बाहर एक मशीन का उपयोग किया जाता है।
+Certain ways of giving radiation therapy can help keep radiation from damaging nearby healthy tissue    .
+These types of external radiation therapy include the following : - Conformal radiation therapy : Conformal radiation therapy is a type of external radiation therapy that uses a computer to make a 3 - dimensional ( 3 - D ) picture of the tumor and shapes the radiation beams to fit the tumor    .
+This allows a high dose of radiation to reach the tumor and causes less damage to nearby healthy tissue    .
+- Stereotactic body radiation therapy : Stereotactic body radiation therapy is a type of external radiation therapy    .
+Special equipment is used to place the patient in the same position for each radiation treatment    .
+Once a day for several days , a radiation machine aims a larger than usual dose of radiation directly at the tumor    .
+By having the patient in the same position for each treatment , there is less damage to nearby healthy tissue    .
+This procedure is also called stereotactic external - beam radiation therapy and stereotaxic radiation therapy    .
+- Proton beam radiation therapy : Proton - beam therapy is a type of high - energy , external radiation therapy    .
+A radiation therapy machine aims streams of protons ( tiny , invisible , positively - charged particles ) at the cancer cells to kill them    .
+This type of treatment causes less damage to nearby healthy tissue    .
+- Internal radiation therapy uses a radioactive substance sealed in needles , seeds , wires , or catheters that are placed directly into or near the cancer    .
+The way the radiation therapy is given depends on the type and stage of the cancer being treated    .
+External radiation therapy is used to treat adult primary liver cancer    .
+New types of treatment are being tested in clinical trials    .
+Information about clinical trials is available from the NCI website    .
+Patients may want to think about taking part in a clinical trial    .
+For some patients , taking part in a clinical trial may be the best treatment choice    .
+Clinical trials are part of the cancer research process    .
+Clinical trials are done to find out if new cancer treatments are safe and effective or better than the standard treatment    .
+Many of today 's standard treatments for cancer are based on earlier clinical trials    .
+Patients who take part in a clinical trial may receive the standard treatment or be among the first to receive a new treatment    .
+Patients who take part in clinical trials also help improve the way cancer will be treated in the future    .
+Even when clinical trials do not lead to effective new treatments , they often answer important questions and help move research forward    .
+Patients can enter clinical trials before , during , or after starting their cancer treatment    .
+Some clinical trials only include patients who have not yet received treatment    .
+Other trials test treatments for patients whose cancer has not gotten better    .
+There are also clinical trials that test new ways to stop cancer from recurring ( coming back ) or reduce the side effects of cancer treatment    .
+Clinical trials are taking place in many parts of the country    .
+See the Treatment Options section that follows for links to current treatment clinical trials    .
+These have been retrieved from NCI 's listing of clinical trials    .
+Follow - up tests may be needed    .
+Some of the tests that were done to diagnose the cancer or to find out the stage of the cancer may be repeated    .
+Some tests will be repeated in order to see how well the treatment is working    .
+Decisions about whether to continue , change , or stop treatment may be based on the results of these tests    .
+Some of the tests will continue to be done from time to time after treatment has ended    .
+The results of these tests can show if your condition has changed or if the cancer has recurred ( come back )    .
+These tests are sometimes called follow - up tests or check - ups    .
+Treatment Options for Adult Primary Liver Cancer
+Stages 0 , A , and B Adult Primary Liver Cancer
+Treatment of stages 0 , A , and B adult primary liver cancer may include the following : - Surveillance for lesions smaller than 1 centimeter    .
+- Partial hepatectomy    .
+- Total hepatectomy and liver transplant    .
+- Ablation of the tumor using one of the following methods : - Radiofrequency ablation    .
+- Microwave therapy    .
+- Percutaneous ethanol injection    .
+- Cryoablation    .    - A clinical trial of electroporation therapy    .
+Check the list of NCI - supported cancer clinical trials that are now accepting patients with stage 0 adult primary liver cancer ( BCLC ) , stage A adult primary liver cancer ( BCLC ) and stage B adult primary liver cancer ( BCLC )    .
+For more specific results , refine the search by using other search features , such as the location of the trial , the type of treatment , or the name of the drug    .
+Talk with your doctor about clinical trials that may be right for you    .
+General information about clinical trials is available from the NCI website    .
+Stages C and D Adult Primary Liver Cancer
+Treatment of stages C and D adult primary liver cancer may include the following : - Embolization therapy using one of the following methods : - Transarterial embolization ( TAE )    .
+- Transarterial chemoembolization ( TACE )    .
+- Targeted therapy    .
+- Radiation therapy    .    - A clinical trial of targeted therapy after chemoembolization or combined with chemotherapy    .    - A clinical trial of new targeted therapy drugs    .    - A clinical trial of targeted therapy with or without stereotactic body radiation therapy    .    - A clinical trial of stereotactic body radiation therapy or proton - beam radiation therapy    .
+Check the list of NCI - supported cancer clinical trials that are now accepting patients with stage C adult primary liver cancer ( BCLC ) and stage D adult primary liver cancer ( BCLC )    .
+For more specific results , refine the search by using other search features , such as the location of the trial , the type of treatment , or the name of the drug    .
+Talk with your doctor about clinical trials that may be right for you    .
+General information about clinical trials is available from the NCI website    .

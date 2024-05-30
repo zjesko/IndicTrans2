@@ -40,6 +40,7 @@ flores_codes = {
     "enGo_Latn": "en",
     "enCh_Latn": "en",
     "enAI_Latn": "en",
+    "enMd_Latn": "en",
 
 }
 
@@ -82,4 +83,5 @@ flores_to_iso = {
     "enGo_Latn": "en",
     "enCh_Latn": "en",
     "enAI_Latn": "en",
+    "enMd_Latn": "en",
 }

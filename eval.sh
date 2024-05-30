@@ -24,8 +24,8 @@ for pair in ${pairs[@]}; do
     src_lang=$(echo "$pair" | cut -d "-" -f 1)
     tgt_lang=$(echo "$pair" | cut -d "-" -f 2)
 
-    src_fname=$devtest_data_dir/$src_lang-$tgt_lang/dev.$src_lang
-    tgt_fname=$devtest_data_dir/$src_lang-$tgt_lang/dev.$tgt_lang
+    src_fname=$devtest_data_dir/$src_lang-$tgt_lang/test.$src_lang
+    tgt_fname=$devtest_data_dir/$src_lang-$tgt_lang/test.$tgt_lang
 
     # check if the source and target files exists
     if [ -f "$src_fname" ] && [ -f "$tgt_fname" ]; then
@@ -48,7 +48,6 @@ for pair in ${pairs[@]}; do
     fi
 
     # remove the intermediate files
-    rm -rf $tgt_fname.pred.$system.*
-    rm -rf $devtest_data_dir/$src_lang-$tgt_lang/*.tok
-
+    rm -rf $devtest_data_dir/$src_lang-$tgt_lang/*.tok $tgt_fname.pred.$system._bpe $tgt_fname.pred.$system._norm $tgt_fname.pred.$system.norm $tgt_fname.pred.$system.bpe $tgt_fname.pred.$system.tok
+    
 done
