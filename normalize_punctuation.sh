@@ -25,8 +25,6 @@ while read line; do
     key=$(cut -f1 <<< "$line")
     val=$(cut -f2 <<< "$line")
     lang_map[$key]=$val
-    echo "key : $key" >&2
-    echo "value : $val" >&2
 done < $lang_map_path
 
 if [ -v "lang_map[$lang]" ]; then
