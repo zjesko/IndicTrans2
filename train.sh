@@ -10,7 +10,6 @@
 
 rm -rf /scratch/jesko/proto50
 mkdir -p /scratch/jesko/proto50
-cp -r proto50/model /scratch/jesko/proto50/
 
 ls /scratch/jesko/proto50/model
 
@@ -32,8 +31,8 @@ fairseq-train $exp_dir/final_bin \
 --max-target-positions=256 \
 --source-lang=SRC \
 --target-lang=TGT \
---max-update=1000000 \
---save-interval-updates=1000 \
+--max-epochs=8 \
+--save-interval-updates=2500 \
 --arch=$model_arch \
 --activation-fn gelu \
 --criterion=label_smoothed_cross_entropy \
@@ -54,7 +53,7 @@ fairseq-train $exp_dir/final_bin \
 --user-dir model_configs \
 --update-freq=32 \
 --distributed-world-size 2 \
---num-workers 24 \
+--num-workers 32 \
 --max-tokens 256 \
 --eval-bleu \
 --eval-bleu-args "{\"beam\": 1, \"lenpen\": 1.0, \"max_len_a\": 1.2, \"max_len_b\": 10}" \
@@ -64,7 +63,7 @@ fairseq-train $exp_dir/final_bin \
 --best-checkpoint-metric bleu \
 --maximize-best-checkpoint-metric \
 --task translation \
---wandb-project thesis-master \
+--wandb-project thesis-ft \
 --ddp-backend=no_c10d \
 --find-unused-parameters \
 --batch-size=16
