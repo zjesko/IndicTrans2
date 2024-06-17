@@ -2,16 +2,11 @@
 
 #SBATCH -A research
 #SBATCH -n 40
-#SBATCH --gres=gpu:2
+#SBATCH --gres=gpu:4
 #SBATCH --mem-per-cpu=2048
 #SBATCH --time=4-00:00:00
 #SBATCH --output=logs.out
 #SBATCH --mail-type=END
-
-rm -rf /scratch/jesko/proto50
-mkdir -p /scratch/jesko/proto50
-
-ls /scratch/jesko/proto50/model
 
 module add u18/cuda/12.1
 module add u18/cudnn/8.4.0-cuda-11.6
@@ -22,9 +17,12 @@ source ~/.bashrc
 
 
 echo `date`
-exp_dir="proto50"                              # path of the experiment directory
-out_dir="/scratch/jesko/proto50"
+exp_dir="models/mod50"                              # path of the experiment directory
+out_dir="/scratch/jesko/$exp_dir"
 model_arch=${2:-"transformer_med"}    # model architecture (defaults to `transformer_18_18`)
+
+rm -rf /scratch/jesko/$exp_dir
+mkdir -p /scratch/jesko/$exp_dir
 
 fairseq-train $exp_dir/final_bin \
 --max-source-positions=256 \
@@ -52,8 +50,8 @@ fairseq-train $exp_dir/final_bin \
 --skip-invalid-size-inputs-valid-test \
 --user-dir model_configs \
 --update-freq=32 \
---distributed-world-size 2 \
---num-workers 32 \
+--distributed-world-size 4 \
+--num-workers 24 \
 --max-tokens 256 \
 --eval-bleu \
 --eval-bleu-args "{\"beam\": 1, \"lenpen\": 1.0, \"max_len_a\": 1.2, \"max_len_b\": 10}" \
@@ -63,7 +61,7 @@ fairseq-train $exp_dir/final_bin \
 --best-checkpoint-metric bleu \
 --maximize-best-checkpoint-metric \
 --task translation \
---wandb-project thesis-ft \
+--wandb-project thesis-mod \
 --ddp-backend=no_c10d \
 --find-unused-parameters \
 --batch-size=16
