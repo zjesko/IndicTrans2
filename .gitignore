@@ -2,9 +2,11 @@
 indic_nlp_library
 indic_nlp_resources
 fairseq
-devtest
 checkpoints
-eval_benchmarks
+*.pred.*
+*.tok
+*_scores.txt
+# eval_benchmarks
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -146,3 +148,6 @@ dmypy.json
 cython_debug/
 
 .DS_Store
+
+proto*
+models

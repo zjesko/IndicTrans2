@@ -1,12 +1,26 @@
 #!/bin/bash
 
+#SBATCH -A research
+#SBATCH -n 20
+#SBATCH --gres=gpu:2
+#SBATCH --mem-per-cpu=2048
+#SBATCH --time=4-00:00:00
+#SBATCH --output=logs.out
+#SBATCH --mail-type=END
+
+module add u18/cuda/12.1
+module add u18/cudnn/8.4.0-cuda-11.6
+
+source ~/.bashrc
+
 # This script finetunes the pretrained translation model on the binarized data using fairseq.
 
 
 echo `date`
-exp_dir=$1                              # path of the experiment directory
-model_arch=${2:-"transformer_18_18"}    # model architecture (defaults to `transformer_18_18`)
-pretrained_ckpt=$3                      # path to the pretrained checkpoint `.pt` file
+exp_dir="protoDmulti"                               # path of the experiment directory
+out_dir="/scratch/jesko/protoDmulti"
+model_arch=${2:-"transformer_med"}                  # model architecture (defaults to `transformer_18_18`)
+pretrained_ckpt="proto50/model/checkpoint_best.pt"  # path to the pretrained checkpoint `.pt` file
 
 
 fairseq-train $exp_dir/final_bin \
@@ -14,7 +28,7 @@ fairseq-train $exp_dir/final_bin \
 --max-target-positions=256 \
 --source-lang=SRC \
 --target-lang=TGT \
---max-update=1000000 \
+--max-epoch=12 \
 --save-interval-updates=1000 \
 --arch=$model_arch \
 --activation-fn gelu \
@@ -28,17 +42,16 @@ fairseq-train $exp_dir/final_bin \
 --lr 3e-5 \
 --warmup-updates 2000 \
 --dropout 0.2 \
---save-dir $exp_dir/model \
---keep-last-epochs 5 \
---keep-interval-updates 3 \
+--save-dir $out_dir/model \
+--keep-last-epochs 1 \
+--keep-interval-updates 1 \
 --patience 10 \
 --skip-invalid-size-inputs-valid-test \
---fp16 \
 --user-dir model_configs \
 --update-freq=4 \
---distributed-world-size 8 \
---num-workers 24 \
---max-tokens 1024 \
+--distributed-world-size 2 \
+--num-workers 16 \
+--max-tokens 256 \
 --eval-bleu \
 --eval-bleu-args "{\"beam\": 1, \"lenpen\": 1.0, \"max_len_a\": 1.2, \"max_len_b\": 10}" \
 --eval-bleu-detok moses \
@@ -51,4 +64,7 @@ fairseq-train $exp_dir/final_bin \
 --reset-meters \
 --reset-dataloader \
 --reset-optimizer \
---task translation
+--task translation \
+--wandb-project thesis-ft \
+--ddp-backend=no_c10d \
+--find-unused-parameters

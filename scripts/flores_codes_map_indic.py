@@ -35,6 +35,15 @@ flores_codes = {
     "tam_Taml": "ta",
     "tel_Telu": "te",
     "urd_Arab": "ur",
+    "en0_Latn": "en",
+    "en1_Latn": "en",
+    "en2_Latn": "en",
+    "en3_Latn": "en",
+    "en4_Latn": "en",
+    "en5_Latn": "en",
+    "en6_Latn": "en",
+    "en7_Latn": "en",
+    "en8_Latn": "en",
 }
 
 
@@ -71,4 +80,13 @@ flores_to_iso = {
     "tam_Taml": "ta",
     "tel_Telu": "te",
     "urd_Arab": "ur",
+    "en0_Latn": "en",
+    "en1_Latn": "en",
+    "en2_Latn": "en",
+    "en3_Latn": "en",
+    "en4_Latn": "en",
+    "en5_Latn": "en",
+    "en6_Latn": "en",
+    "en7_Latn": "en",
+    "en8_Latn": "en",
 }
