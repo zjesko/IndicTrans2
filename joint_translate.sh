@@ -6,8 +6,8 @@
 echo `date`
 infname=$1          # path to the input file name
 outfname=$2         # path to the output file name
-src_lang=$3         # source language (according to the flores code)
-tgt_lang=$4         # target language (according to the flores code)
+src_lang=$3         # source language (according to the domain code)
+tgt_lang=$4         # target language (according to the domain code)
 ckpt_dir=$5         # path to the checkpoint directory
 
 
@@ -33,6 +33,7 @@ TGT_PREFIX='TGT'
 
 
 echo "Normalizing punctuations"
+echo "SOURCELANG : " $src_lang
 bash normalize_punctuation.sh $src_lang < $infname > $outfname._norm
 
 echo "Adding do not translate tags"
@@ -50,7 +51,7 @@ spm_encode --model $ckpt_dir/vocab/model.SRC \
     < $outfname.norm \
     > $outfname._bpe
 
-echo "Adding language tags"
+echo "Adding domain tags"
 python scripts/add_tags_translate.py $outfname._bpe $outfname.bpe $src_lang $tgt_lang
 
 

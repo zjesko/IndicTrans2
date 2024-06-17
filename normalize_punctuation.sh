@@ -8,7 +8,7 @@ set -euo pipefail
 
 root=$(dirname $0)
 
-lang_map_path=$root/utils.map_token_lang.tsv
+lang_map_path=$root/utils.map_token_domain.tsv
 
 usage () {
     echo "usage: $0 lang" >&2
@@ -32,8 +32,8 @@ if [ -v "lang_map[$lang]" ]; then
 elif [ -v "lang_map[${lang:0:3}]" ]; then
     lang=${lang_map[${lang:0:3}]}
 else
-    echo "undefined mapping: ${lang}, falling back to: en" >&2
-    lang=en
+    echo "undefined mapping: ${lang}, falling back to: ${lang:0:2}" >&2
+    lang=${lang:0:2}
 fi
 
 perl $root/normalize-punctuation.perl $lang
