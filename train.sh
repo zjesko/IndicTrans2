@@ -18,11 +18,11 @@ source ~/.bashrc
 
 echo `date`
 exp_dir="models/mod50"                              # path of the experiment directory
-out_dir="/scratch/jesko/$exp_dir"
+out_dir="/scratch/zjesko/$exp_dir"
 model_arch=${2:-"transformer_med"}    # model architecture (defaults to `transformer_18_18`)
 
-rm -rf /scratch/jesko/$exp_dir
-mkdir -p /scratch/jesko/$exp_dir
+rm -rf /scratch/zjesko/$exp_dir
+mkdir -p /scratch/zjesko/$exp_dir
 
 fairseq-train $exp_dir/final_bin \
 --max-source-positions=256 \
