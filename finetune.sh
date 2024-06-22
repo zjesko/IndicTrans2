@@ -27,7 +27,7 @@ fairseq-train $exp_dir/final_bin \
 --max-target-positions=256 \
 --source-lang=SRC \
 --target-lang=TGT \
---max-epoch=10 \
+--max-epoch=14 \
 --save-interval-updates=2000 \
 --arch=$model_arch \
 --activation-fn gelu \
