@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #SBATCH -A research
-#SBATCH -n 20
+#SBATCH -n 14
 #SBATCH --gres=gpu:2
 #SBATCH --mem-per-cpu=2048
 #SBATCH --time=4-00:00:00
-#SBATCH --output=logs.out
+#SBATCH --output=$1.out
 #SBATCH --mail-type=END
 
 module add u18/cuda/12.1
@@ -17,10 +17,10 @@ source ~/.bashrc
 
 
 echo `date`
-exp_dir="protoDmulti"                               # path of the experiment directory
-out_dir="/scratch/jesko/protoDmulti"
+exp_dir=$1                              # path of the experiment directory
+out_dir="/scratch/zjesko/$expdir"
 model_arch=${2:-"transformer_med"}                  # model architecture (defaults to `transformer_18_18`)
-pretrained_ckpt="proto50/model/checkpoint_best.pt"  # path to the pretrained checkpoint `.pt` file
+pretrained_ckpt="models/mod50/model/checkpoint_best.pt"  # path to the pretrained checkpoint `.pt` file
 
 
 fairseq-train $exp_dir/final_bin \
@@ -28,8 +28,8 @@ fairseq-train $exp_dir/final_bin \
 --max-target-positions=256 \
 --source-lang=SRC \
 --target-lang=TGT \
---max-epoch=12 \
---save-interval-updates=1000 \
+--max-epoch=10 \
+--save-interval-updates=2000 \
 --arch=$model_arch \
 --activation-fn gelu \
 --criterion=label_smoothed_cross_entropy \
@@ -50,7 +50,7 @@ fairseq-train $exp_dir/final_bin \
 --user-dir model_configs \
 --update-freq=4 \
 --distributed-world-size 2 \
---num-workers 16 \
+--num-workers 12 \
 --max-tokens 256 \
 --eval-bleu \
 --eval-bleu-args "{\"beam\": 1, \"lenpen\": 1.0, \"max_len_a\": 1.2, \"max_len_b\": 10}" \
@@ -65,6 +65,6 @@ fairseq-train $exp_dir/final_bin \
 --reset-dataloader \
 --reset-optimizer \
 --task translation \
---wandb-project thesis-ft \
+--wandb-project thesis-mod \
 --ddp-backend=no_c10d \
 --find-unused-parameters
