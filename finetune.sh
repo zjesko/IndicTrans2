@@ -18,7 +18,6 @@ source ~/.bashrc
 
 echo `date`
 exp_dir=$1                              # path of the experiment directory
-out_dir="/scratch/zjesko/$expdir"
 model_arch=${2:-"transformer_med"}                  # model architecture (defaults to `transformer_18_18`)
 pretrained_ckpt="models/mod50/model/checkpoint_best.pt"  # path to the pretrained checkpoint `.pt` file
 
@@ -42,7 +41,7 @@ fairseq-train $exp_dir/final_bin \
 --lr 3e-5 \
 --warmup-updates 2000 \
 --dropout 0.2 \
---save-dir $out_dir/model \
+--save-dir /scratch/zjesko/$exp_dir/model \
 --keep-last-epochs 1 \
 --keep-interval-updates 1 \
 --patience 10 \
