@@ -1,5 +1,18 @@
 #!/bin/bash
 
+#SBATCH -A research
+#SBATCH -n 18
+#SBATCH --gres=gpu:2
+#SBATCH --mem-per-cpu=2048
+#SBATCH --time=4-00:00:00
+#SBATCH --output=logs.out
+#SBATCH --mail-type=END
+
+module add u18/cuda/12.1
+module add u18/cudnn/8.4.0-cuda-11.6
+
+source ~/.bashrc
+
 # This script performs inference from a source language to a target language using fairseq model.
 
 
@@ -58,12 +71,13 @@ python scripts/add_tags_translate.py $outfname._bpe $outfname.bpe $src_lang $tgt
 echo "Decoding"
 fairseq-interactive $ckpt_dir/final_bin \
     -s $SRC_PREFIX -t $TGT_PREFIX \
-    --distributed-world-size 1 --fp16 \
+    --distributed-world-size 2 --fp16 \
+    --num-workers 16 \
     --path $ckpt_dir/model/checkpoint_best.pt \
     --task translation \
     --user-dir model_configs \
     --skip-invalid-size-inputs-valid-test \
-    --batch-size 128 --buffer-size 2500 --beam 5 \
+    --batch-size 256 --buffer-size 2500 --beam 5 \
     --input $outfname.bpe > $outfname.log 2>&1
 
 
