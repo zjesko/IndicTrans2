@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#SBATCH -A research
+#SBATCH -n 18
+#SBATCH --gres=gpu:2
+#SBATCH --mem-per-cpu=2048
+#SBATCH --time=4-00:00:00
+#SBATCH --output=logs.out
+#SBATCH --mail-type=END
+
 # This script evaluates the performance of a machine translation system 
 # on a evaluation set in forward direction. For example, if the evaluation set 
 # consists of language pairs, such as En-X, where En represents the English language 
