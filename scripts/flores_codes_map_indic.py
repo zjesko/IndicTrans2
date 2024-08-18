@@ -45,6 +45,15 @@ flores_codes = {
     "en7_Latn": "en",
     "en8_Latn": "en",
     "en9_Latn": "en",
+    "hi1_Deva": "hi",
+    "hi2_Deva": "hi",
+    "hi3_Deva": "hi",
+    "hi4_Deva": "hi",
+    "hi5_Deva": "hi",
+    "hi6_Deva": "hi",
+    "hi7_Deva": "hi",
+    "hi8_Deva": "hi",
+    "hi9_Deva": "hi",
 }
 
 
@@ -91,4 +100,13 @@ flores_to_iso = {
     "en7_Latn": "en",
     "en8_Latn": "en",
     "en9_Latn": "en",
+    "hi1_Deva": "hi",
+    "hi2_Deva": "hi",
+    "hi3_Deva": "hi",
+    "hi4_Deva": "hi",
+    "hi5_Deva": "hi",
+    "hi6_Deva": "hi",
+    "hi7_Deva": "hi",
+    "hi8_Deva": "hi",
+    "hi9_Deva": "hi",
 }
